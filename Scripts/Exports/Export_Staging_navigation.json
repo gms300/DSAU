@@ -1,0 +1,73 @@
+{
+  "id": 2962,
+  "date": "2026-02-06T21:33:37",
+  "date_gmt": "2026-02-07T02:33:37",
+  "guid": {
+    "rendered": "https://c9s.3d3.myftpupload.com/?p=2962"
+  },
+  "modified": "2026-02-06T21:33:37",
+  "modified_gmt": "2026-02-07T02:33:37",
+  "slug": "primary-2",
+  "status": "publish",
+  "type": "wp_navigation",
+  "link": "https://c9s.3d3.myftpupload.com/primary-2/",
+  "title": {
+    "rendered": "Primary"
+  },
+  "content": {
+    "rendered": "<li class=\"wp-block-navigation-item has-child wp-block-navigation-submenu\"><a class=\"wp-block-navigation-item__content\"><span class=\"wp-block-navigation-item__label\">About Us</span></a><ul class=\"wp-block-navigation__submenu-container wp-block-navigation-submenu\"><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/about-us/\"><span class=\"wp-block-navigation-item__label\">Who is the DSAU?</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/celebrate-with-us/\"><span class=\"wp-block-navigation-item__label\">Celebrate with US!</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/membership-center/\"><span class=\"wp-block-navigation-item__label\">Membership Center</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/financial-information/\"><span class=\"wp-block-navigation-item__label\">Financial Information</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/board-of-directors/\"><span class=\"wp-block-navigation-item__label\">Board of Directors</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/contact-us/\"><span class=\"wp-block-navigation-item__label\">Contact Us</span></a></li></ul></li>\n\n<li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/donations/\"><span class=\"wp-block-navigation-item__label\">Donations</span></a></li>\n\n<li class=\"wp-block-navigation-item has-child wp-block-navigation-submenu\"><a class=\"wp-block-navigation-item__content\"><span class=\"wp-block-navigation-item__label\">Programs &#038; Events</span></a><ul class=\"wp-block-navigation__submenu-container wp-block-navigation-submenu\"><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/upcoming-events/\"><span class=\"wp-block-navigation-item__label\">Upcoming Events</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/outreach-programs-suggestions/\"><span class=\"wp-block-navigation-item__label\">2025 Community Survey</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/family-care-fund/\"><span class=\"wp-block-navigation-item__label\">Family Care Fund</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/family-assistance-scholarship-program/\"><span class=\"wp-block-navigation-item__label\">BOOST</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/bereavement-fund/\"><span class=\"wp-block-navigation-item__label\">Bereavement Fund</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/iep-advocate-scholarship-program/\"><span class=\"wp-block-navigation-item__label\">IEP Advocate Scholarship Program</span></a></li></ul></li>\n\n<li class=\"wp-block-navigation-item has-child wp-block-navigation-submenu\"><a class=\"wp-block-navigation-item__content\"><span class=\"wp-block-navigation-item__label\">Resources Center</span></a><ul class=\"wp-block-navigation__submenu-container wp-block-navigation-submenu\"><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/new-expectant-parent-resource-center/\"><span class=\"wp-block-navigation-item__label\">New &amp; Expectant Parent Resource Center</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/dads-resource-center/\"><span class=\"wp-block-navigation-item__label\">Dad’s Resource Center</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/adoption-resource-center/\"><span class=\"wp-block-navigation-item__label\">Adoption Resource Center</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/state-federal-resource-center/\"><span class=\"wp-block-navigation-item__label\">State &amp; Federal Resource Center</span></a></li><li class=\"wp-block-navigation-item has-child wp-block-navigation-submenu\"><a class=\"wp-block-navigation-item__content\" href=\"https://c9s.3d3.myftpupload.com/education-scholarship-resource-center/\"><span class=\"wp-block-navigation-item__label\">Education Resource Center</span></a><ul class=\"wp-block-navigation__submenu-container wp-block-navigation-submenu\"><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/teacher-binders/\"><span class=\"wp-block-navigation-item__label\">Teacher Binders</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/understanding-idea-iep-and-fape/\"><span class=\"wp-block-navigation-item__label\">Understanding IDEA, IEP, and FAPE</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/homeschooling/\"><span class=\"wp-block-navigation-item__label\">Homeschooling</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/post-secondary-scholarships/\"><span class=\"wp-block-navigation-item__label\">Post-secondary Education</span></a></li></ul></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/recommended-books-websites/\"><span class=\"wp-block-navigation-item__label\">Recommended Books &amp; Websites</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/heart-warrior-resource-center/\"><span class=\"wp-block-navigation-item__label\">Heart Warrior Resource Center</span></a></li></ul></li>\n\n<li class=\"wp-block-navigation-item has-child wp-block-navigation-submenu\"><a class=\"wp-block-navigation-item__content\"><span class=\"wp-block-navigation-item__label\">Volunteer Center</span></a><ul class=\"wp-block-navigation__submenu-container wp-block-navigation-submenu\"><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/volunteer-registration/\"><span class=\"wp-block-navigation-item__label\">DSAU Volunteer Registration</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/parent-mentor-program-registration/\"><span class=\"wp-block-navigation-item__label\">Parent Mentor Program</span></a></li><li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/aging-ally-program/\"><span class=\"wp-block-navigation-item__label\">Aging Ally Program</span></a></li></ul></li>\n\n<li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/2025-buddy-walk-sponsors/\"><span class=\"wp-block-navigation-item__label\">2025 Buddy Walk Fund-casters</span></a></li>\n\n<li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/our-partners/\"><span class=\"wp-block-navigation-item__label\">Partners in Advocacy</span></a></li>\n\n<li class=\" wp-block-navigation-item wp-block-navigation-link\"><a class=\"wp-block-navigation-item__content\"  href=\"https://c9s.3d3.myftpupload.com/newsletter/\"><span class=\"wp-block-navigation-item__label\">Newsletter</span></a></li>",
+    "protected": false
+  },
+  "template": "",
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/navigation/2962",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/navigation"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_navigation"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/navigation/2962/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2963,
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/navigation/2962/revisions/2963"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2962"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

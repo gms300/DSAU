@@ -1,0 +1,2477 @@
+[
+  {
+    "id": 2955,
+    "date": "2026-01-30T22:33:22",
+    "date_gmt": "2026-01-31T03:33:22",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2955"
+    },
+    "modified": "2026-01-30T22:33:22",
+    "modified_gmt": "2026-01-31T03:33:22",
+    "slug": "02-nichols-gini",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/02-nichols-gini/",
+    "title": {
+      "rendered": "02 &#8211; Nichols, Gini"
+    },
+    "featured_media": 2956,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2955",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Gini Nichols",
+        "value_formatted": "Gini Nichols",
+        "value": "Gini Nichols",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Treasurer/Finance Committee Chair",
+        "value_formatted": "Treasurer/Finance Committee Chair",
+        "value": "Treasurer/Finance Committee Chair",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Gini Nichols relocated to the Upstate in 2021 with her husband, Patrick, and their two children, Jude and Eva. A longtime nonprofit leader, she is respected for her thoughtful leadership and brings experience in financial governance, strategic planning, and organizational growth. Gini is committed to advancing opportunities for individuals with Down syndrome and strengthening the community that supports them.",
+        "value_formatted": "Gini Nichols relocated to the Upstate in 2021 with her husband, Patrick, and their two children, Jude and Eva. A longtime nonprofit leader, she is respected for her thoughtful leadership and brings experience in financial governance, strategic planning, and organizational growth. Gini is committed to advancing opportunities for individuals with Down syndrome and strengthening the community that supports them.",
+        "value": "Gini Nichols relocated to the Upstate in 2021 with her husband, Patrick, and their two children, Jude and Eva. A longtime nonprofit leader, she is respected for her thoughtful leadership and brings experience in financial governance, strategic planning, and organizational growth. Gini is committed to advancing opportunities for individuals with Down syndrome and strengthening the community that supports them.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Finance Committee, BOOST Committee, Fundraising Committee",
+        "value_formatted": "Finance Committee, BOOST Committee, Fundraising Committee",
+        "value": "Finance Committee, BOOST Committee, Fundraising Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2955",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2956"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2955"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2953,
+    "date": "2026-01-29T17:26:33",
+    "date_gmt": "2026-01-29T22:26:33",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2953"
+    },
+    "modified": "2026-01-29T17:26:33",
+    "modified_gmt": "2026-01-29T22:26:33",
+    "slug": "02-schroeder-marianne",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/02-schroeder-marianne/",
+    "title": {
+      "rendered": "02 &#8211; Schroeder, Marianne"
+    },
+    "featured_media": 2954,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2953",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Marianne Schroeder",
+        "value_formatted": "Marianne Schroeder",
+        "value": "Marianne Schroeder",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "BOOST Committee Chair",
+        "value_formatted": "BOOST Committee Chair",
+        "value": "BOOST Committee Chair",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Marianne and her husband Greg met their blessing, Gideon, in June of 2019. They are originally from South Louisiana and relocated to South Carolina in 2022 to be closer to their bonus daughter and grandson. Her background is in education and she currently homeschools Gideon. She loves watching him thrive and she is constantly reminded there are no boundaries to what he is capable of achieving.\r\n\r\nShe is excited to be continuing her journey on the board and can't wait to see where God grows and leads this beautiful community.",
+        "value_formatted": "Marianne and her husband Greg met their blessing, Gideon, in June of 2019. They are originally from South Louisiana and relocated to South Carolina in 2022 to be closer to their bonus daughter and grandson. Her background is in education and she currently homeschools Gideon. She loves watching him thrive and she is constantly reminded there are no boundaries to what he is capable of achieving.\r\n\r\nShe is excited to be continuing her journey on the board and can't wait to see where God grows and leads this beautiful community.",
+        "value": "Marianne and her husband Greg met their blessing, Gideon, in June of 2019. They are originally from South Louisiana and relocated to South Carolina in 2022 to be closer to their bonus daughter and grandson. Her background is in education and she currently homeschools Gideon. She loves watching him thrive and she is constantly reminded there are no boundaries to what he is capable of achieving.\r\n\r\nShe is excited to be continuing her journey on the board and can't wait to see where God grows and leads this beautiful community.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Education Committee",
+        "value_formatted": "Education Committee",
+        "value": "Education Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2953",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2954"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2953"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2952,
+    "date": "2026-01-29T17:14:19",
+    "date_gmt": "2026-01-29T22:14:19",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2952"
+    },
+    "modified": "2026-01-29T17:15:13",
+    "modified_gmt": "2026-01-29T22:15:13",
+    "slug": "02-bryson-austin",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/02-bryson-austin/",
+    "title": {
+      "rendered": "01 &#8211; Bryson, Austin"
+    },
+    "featured_media": 2949,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2952",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Austin Bryson",
+        "value_formatted": "Austin Bryson",
+        "value": "Austin Bryson",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Vice President ",
+        "value_formatted": "Vice President ",
+        "value": "Vice President ",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "My name is Austin Bryson and I am the father to Ridge (DS) and Easton and husband to Sara. I love to spend time outdoors and with my family. I look forward to supporting our community this year. ",
+        "value_formatted": "My name is Austin Bryson and I am the father to Ridge (DS) and Easton and husband to Sara. I love to spend time outdoors and with my family. I look forward to supporting our community this year. ",
+        "value": "My name is Austin Bryson and I am the father to Ridge (DS) and Easton and husband to Sara. I love to spend time outdoors and with my family. I look forward to supporting our community this year. ",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Fundraising Committee, Education Committee, Community Outreach Committee, Scholarship Committee",
+        "value_formatted": "Fundraising Committee, Education Committee, Community Outreach Committee, Scholarship Committee",
+        "value": "Fundraising Committee, Education Committee, Community Outreach Committee, Scholarship Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2952",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2949"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2952"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2951,
+    "date": "2026-01-29T17:13:12",
+    "date_gmt": "2026-01-29T22:13:12",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2951"
+    },
+    "modified": "2026-01-29T17:13:12",
+    "modified_gmt": "2026-01-29T22:13:12",
+    "slug": "02-miller-megan",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/02-miller-megan/",
+    "title": {
+      "rendered": "02 &#8211; Miller, Megan"
+    },
+    "featured_media": 2948,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2951",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Megan Miller",
+        "value_formatted": "Megan Miller",
+        "value": "Megan Miller",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Chair of Community Outreach ",
+        "value_formatted": "Chair of Community Outreach ",
+        "value": "Chair of Community Outreach ",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "I am a wife and mama of 10, expecting our 11th child, and have been married to my husband, Christian, since 2008. Three of our children have Down syndrome, and one of those three also has Autism Level 3 and Down syndrome regression disorder, which has deeply shaped both my heart and my advocacy within the special needs community. God has truly blessed our family, and I love instilling in my children an understanding that our differences are beautiful and that we are all equally worthy of His love. My passion for Down syndrome advocacy began through a close childhood friend who has Down syndrome and later led our family into adoption, where I became a strong advocate for children and families. With a background in the medical field prior to motherhood, I am now a stay-at-home mom, homeschool our children, and help my husband run a wildland fire emergency medical response business. I am deeply committed to community outreach and education that fosters inclusion, connection, and meaningful engagement for individuals with Down syndrome and their families. In my free time, I enjoy life on our farm, camping, organizing, and movie nights with my family.",
+        "value_formatted": "I am a wife and mama of 10, expecting our 11th child, and have been married to my husband, Christian, since 2008. Three of our children have Down syndrome, and one of those three also has Autism Level 3 and Down syndrome regression disorder, which has deeply shaped both my heart and my advocacy within the special needs community. God has truly blessed our family, and I love instilling in my children an understanding that our differences are beautiful and that we are all equally worthy of His love. My passion for Down syndrome advocacy began through a close childhood friend who has Down syndrome and later led our family into adoption, where I became a strong advocate for children and families. With a background in the medical field prior to motherhood, I am now a stay-at-home mom, homeschool our children, and help my husband run a wildland fire emergency medical response business. I am deeply committed to community outreach and education that fosters inclusion, connection, and meaningful engagement for individuals with Down syndrome and their families. In my free time, I enjoy life on our farm, camping, organizing, and movie nights with my family.",
+        "value": "I am a wife and mama of 10, expecting our 11th child, and have been married to my husband, Christian, since 2008. Three of our children have Down syndrome, and one of those three also has Autism Level 3 and Down syndrome regression disorder, which has deeply shaped both my heart and my advocacy within the special needs community. God has truly blessed our family, and I love instilling in my children an understanding that our differences are beautiful and that we are all equally worthy of His love. My passion for Down syndrome advocacy began through a close childhood friend who has Down syndrome and later led our family into adoption, where I became a strong advocate for children and families. With a background in the medical field prior to motherhood, I am now a stay-at-home mom, homeschool our children, and help my husband run a wildland fire emergency medical response business. I am deeply committed to community outreach and education that fosters inclusion, connection, and meaningful engagement for individuals with Down syndrome and their families. In my free time, I enjoy life on our farm, camping, organizing, and movie nights with my family.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Education Committee",
+        "value_formatted": "Education Committee",
+        "value": "Education Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2951",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2948"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2951"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2950,
+    "date": "2026-01-29T17:12:11",
+    "date_gmt": "2026-01-29T22:12:11",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2950"
+    },
+    "modified": "2026-01-29T17:12:11",
+    "modified_gmt": "2026-01-29T22:12:11",
+    "slug": "99-franks-will",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/99-franks-will/",
+    "title": {
+      "rendered": "99 &#8211; Franks, Will"
+    },
+    "featured_media": 2947,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2950",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Will Franks",
+        "value_formatted": "Will Franks",
+        "value": "Will Franks",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Board Member",
+        "value_formatted": "Board Member",
+        "value": "Board Member",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Will is a business management consultant, owner of Lawn Doctor of Greenville, engineer, and entrepreneur. He has volunteered on other boards including the Association for Manufacturing Excellence, Cape Cod Community College advisory board, and Industry Week magazine Best Plants. When Will and Lisa’s grandson Lukas was born with Down syndrome in September of 2013, a remarkable journey began. “He’s the happiest person I know”, Will has said many times. Will, his family, and their network of friends are excited to provide their expertise and support to our Down syndrome community in any way possible.",
+        "value_formatted": "Will is a business management consultant, owner of Lawn Doctor of Greenville, engineer, and entrepreneur. He has volunteered on other boards including the Association for Manufacturing Excellence, Cape Cod Community College advisory board, and Industry Week magazine Best Plants. When Will and Lisa’s grandson Lukas was born with Down syndrome in September of 2013, a remarkable journey began. “He’s the happiest person I know”, Will has said many times. Will, his family, and their network of friends are excited to provide their expertise and support to our Down syndrome community in any way possible.",
+        "value": "Will is a business management consultant, owner of Lawn Doctor of Greenville, engineer, and entrepreneur. He has volunteered on other boards including the Association for Manufacturing Excellence, Cape Cod Community College advisory board, and Industry Week magazine Best Plants. When Will and Lisa’s grandson Lukas was born with Down syndrome in September of 2013, a remarkable journey began. “He’s the happiest person I know”, Will has said many times. Will, his family, and their network of friends are excited to provide their expertise and support to our Down syndrome community in any way possible.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Finance Committee",
+        "value_formatted": "Finance Committee",
+        "value": "Finance Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2950",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2947"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2950"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2940,
+    "date": "2026-01-27T21:16:14",
+    "date_gmt": "2026-01-28T02:16:14",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2940"
+    },
+    "modified": "2026-01-29T17:16:01",
+    "modified_gmt": "2026-01-29T22:16:01",
+    "slug": "99-scott-stacey",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/99-scott-stacey/",
+    "title": {
+      "rendered": "02 &#8211; Scott, Stacey"
+    },
+    "featured_media": 2941,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2940",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Stacey Scott ",
+        "value_formatted": "Stacey Scott ",
+        "value": "Stacey Scott ",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Fundraising Committee Chair",
+        "value_formatted": "Fundraising Committee Chair",
+        "value": "Fundraising Committee Chair",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Stacey attended Indiana University earning a bachelor's and master's degree in social work. She currently lives in Mauldin and is employed by Greenville County Schools as a District Social Worker. Stacey has one daughter named Emma who is 10 years old and was born with Down syndrome. Emma loves gymnastics, swimming, golf, pickleball and playing with her dog Abby. Stacey has served on the DSAU Board of Directors since 2002, including two years as Co-President and one year as President. She is excited to continue to serve as a board member to promote awareness for our community!  ",
+        "value_formatted": "Stacey attended Indiana University earning a bachelor's and master's degree in social work. She currently lives in Mauldin and is employed by Greenville County Schools as a District Social Worker. Stacey has one daughter named Emma who is 10 years old and was born with Down syndrome. Emma loves gymnastics, swimming, golf, pickleball and playing with her dog Abby. Stacey has served on the DSAU Board of Directors since 2002, including two years as Co-President and one year as President. She is excited to continue to serve as a board member to promote awareness for our community!  ",
+        "value": "Stacey attended Indiana University earning a bachelor's and master's degree in social work. She currently lives in Mauldin and is employed by Greenville County Schools as a District Social Worker. Stacey has one daughter named Emma who is 10 years old and was born with Down syndrome. Emma loves gymnastics, swimming, golf, pickleball and playing with her dog Abby. Stacey has served on the DSAU Board of Directors since 2002, including two years as Co-President and one year as President. She is excited to continue to serve as a board member to promote awareness for our community!  ",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Fundraising Committee, Finance Committee, Community Outreach Committee",
+        "value_formatted": "Fundraising Committee, Finance Committee, Community Outreach Committee",
+        "value": "Fundraising Committee, Finance Committee, Community Outreach Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2940",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2941"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2940"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2937,
+    "date": "2026-01-27T18:44:33",
+    "date_gmt": "2026-01-27T23:44:33",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2937"
+    },
+    "modified": "2026-01-29T17:15:38",
+    "modified_gmt": "2026-01-29T22:15:38",
+    "slug": "03-turner-jenny-lee",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/03-turner-jenny-lee/",
+    "title": {
+      "rendered": "02 &#8211; Turner, Jenny Lee"
+    },
+    "featured_media": 2938,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2937",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Jenny Lee Turner",
+        "value_formatted": "Jenny Lee Turner",
+        "value": "Jenny Lee Turner",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Executive Board Secretary, Buddy Walk Co-chair, Website/Communication/Media Chair",
+        "value_formatted": "Executive Board Secretary, Buddy Walk Co-chair, Website/Communication/Media Chair",
+        "value": "Executive Board Secretary, Buddy Walk Co-chair, Website/Communication/Media Chair",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Jenny Lee Turner is an Early Interventionist at Above and Beyond Early Intervention, where she works closely with young children and their families to support growth and development. She is dedicated to helping children thrive during their formative years.\r\nOutside of her professional work, Jenny is a foster parent, providing a warm and nurturing home for children in need.\r\nShe also enjoys spending her free time gardening, relaxing at the beach, and caring for her chickens. Her love for helping others and connecting with nature is at the heart of all she does.",
+        "value_formatted": "Jenny Lee Turner is an Early Interventionist at Above and Beyond Early Intervention, where she works closely with young children and their families to support growth and development. She is dedicated to helping children thrive during their formative years.\r\nOutside of her professional work, Jenny is a foster parent, providing a warm and nurturing home for children in need.\r\nShe also enjoys spending her free time gardening, relaxing at the beach, and caring for her chickens. Her love for helping others and connecting with nature is at the heart of all she does.",
+        "value": "Jenny Lee Turner is an Early Interventionist at Above and Beyond Early Intervention, where she works closely with young children and their families to support growth and development. She is dedicated to helping children thrive during their formative years.\r\nOutside of her professional work, Jenny is a foster parent, providing a warm and nurturing home for children in need.\r\nShe also enjoys spending her free time gardening, relaxing at the beach, and caring for her chickens. Her love for helping others and connecting with nature is at the heart of all she does.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Fundraising Committee, Buddy Walk Committee, Website/Communication/Media Committee",
+        "value_formatted": "Fundraising Committee, Buddy Walk Committee, Website/Communication/Media Committee",
+        "value": "Fundraising Committee, Buddy Walk Committee, Website/Communication/Media Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2937",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2938"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2937"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2933,
+    "date": "2026-01-26T16:23:22",
+    "date_gmt": "2026-01-26T21:23:22",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2933"
+    },
+    "modified": "2026-01-26T19:15:52",
+    "modified_gmt": "2026-01-27T00:15:52",
+    "slug": "99-rubner-renee",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/99-rubner-renee/",
+    "title": {
+      "rendered": "99 &#8211; Rubner, Renee"
+    },
+    "featured_media": 2931,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2933",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Renee Rubner",
+        "value_formatted": "Renee Rubner",
+        "value": "Renee Rubner",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "Board Member",
+        "value_formatted": "Board Member",
+        "value": "Board Member",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "Renee moved to SC in 1986 from Pittsburgh, Pennsylvania. She met her husband, Mike, in 2001, and they married a year later to the day. Two years after they were married, the couple had their first child, Nicholas, who was diagnosed with Down Syndrome shortly after his birth. Another child, Bethany (Nick's big little sister), was welcomed two years after that.\r\n\r\nRenee has a Bachelor of Science in Elementary Education and recently earned a Master of Art in Educational Administration and Leadership for adult and higher education. She is currently a Program Coordinator with Greenville Technical College's continuing education division.\r\n\r\nRenee has experience as a volunteer with Special Olympics and formerly served on the board as secretary from 2008 -2013. She is excited to continue serving on the board, affecting positive change and growth for those affected by Down Syndrome in the upstate of SC.",
+        "value_formatted": "Renee moved to SC in 1986 from Pittsburgh, Pennsylvania. She met her husband, Mike, in 2001, and they married a year later to the day. Two years after they were married, the couple had their first child, Nicholas, who was diagnosed with Down Syndrome shortly after his birth. Another child, Bethany (Nick's big little sister), was welcomed two years after that.\r\n\r\nRenee has a Bachelor of Science in Elementary Education and recently earned a Master of Art in Educational Administration and Leadership for adult and higher education. She is currently a Program Coordinator with Greenville Technical College's continuing education division.\r\n\r\nRenee has experience as a volunteer with Special Olympics and formerly served on the board as secretary from 2008 -2013. She is excited to continue serving on the board, affecting positive change and growth for those affected by Down Syndrome in the upstate of SC.",
+        "value": "Renee moved to SC in 1986 from Pittsburgh, Pennsylvania. She met her husband, Mike, in 2001, and they married a year later to the day. Two years after they were married, the couple had their first child, Nicholas, who was diagnosed with Down Syndrome shortly after his birth. Another child, Bethany (Nick's big little sister), was welcomed two years after that.\r\n\r\nRenee has a Bachelor of Science in Elementary Education and recently earned a Master of Art in Educational Administration and Leadership for adult and higher education. She is currently a Program Coordinator with Greenville Technical College's continuing education division.\r\n\r\nRenee has experience as a volunteer with Special Olympics and formerly served on the board as secretary from 2008 -2013. She is excited to continue serving on the board, affecting positive change and growth for those affected by Down Syndrome in the upstate of SC.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Finance Committee, Education Committee",
+        "value_formatted": "Finance Committee, Education Committee",
+        "value": "Finance Committee, Education Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2933",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2931"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2933"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2918,
+    "date": "2026-01-25T14:51:48",
+    "date_gmt": "2026-01-25T19:51:48",
+    "guid": {
+      "rendered": "https://c9s.3d3.myftpupload.com/?post_type=board-member&#038;p=2918"
+    },
+    "modified": "2026-01-26T16:25:30",
+    "modified_gmt": "2026-01-26T21:25:30",
+    "slug": "00-test",
+    "status": "publish",
+    "type": "board-member",
+    "link": "https://c9s.3d3.myftpupload.com/board-member/00-test/",
+    "title": {
+      "rendered": "00 &#8211; Duncan, Elizabeth"
+    },
+    "featured_media": 2930,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_EventAllDay": false,
+      "_EventTimezone": "",
+      "_EventStartDate": "",
+      "_EventEndDate": "",
+      "_EventStartDateUTC": "",
+      "_EventEndDateUTC": "",
+      "_EventShowMap": false,
+      "_EventShowMapLink": false,
+      "_EventURL": "",
+      "_EventCost": "",
+      "_EventCostDescription": "",
+      "_EventCurrencySymbol": "",
+      "_EventCurrencyCode": "",
+      "_EventCurrencyPosition": "",
+      "_EventDateTimeSeparator": "",
+      "_EventTimeRangeSeparator": "",
+      "_EventOrganizerID": [],
+      "_EventVenueID": [],
+      "_OrganizerEmail": "",
+      "_OrganizerPhone": "",
+      "_OrganizerWebsite": "",
+      "_VenueAddress": "",
+      "_VenueCity": "",
+      "_VenueCountry": "",
+      "_VenueProvince": "",
+      "_VenueState": "",
+      "_VenueZip": "",
+      "_VenuePhone": "",
+      "_VenueURL": "",
+      "_VenueStateProvince": "",
+      "_VenueLat": "",
+      "_VenueLng": "",
+      "_VenueShowMap": false,
+      "_VenueShowMapLink": false
+    },
+    "class_list": [
+      "post-2918",
+      "board-member",
+      "type-board-member",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "board_name": {
+        "simple_value_formatted": "Elizabeth Duncan",
+        "value_formatted": "Elizabeth Duncan",
+        "value": "Elizabeth Duncan",
+        "field": {
+          "ID": 2911,
+          "key": "field_696e982dffe5f",
+          "label": "Name",
+          "name": "board_name",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 0,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_name",
+          "_valid": 1
+        }
+      },
+      "board_title": {
+        "simple_value_formatted": "President, Buddy Walk Co-Chair",
+        "value_formatted": "President, Buddy Walk Co-Chair",
+        "value": "President, Buddy Walk Co-Chair",
+        "field": {
+          "ID": 2912,
+          "key": "field_69655a5dfcec3",
+          "label": "Title",
+          "name": "board_title",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 1,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "board_title",
+          "_valid": 1
+        }
+      },
+      "bio": {
+        "simple_value_formatted": "A wife and mom of 5, Elizabeth is a former teacher who is excited to lead the DSAU in 2026. She is passionate about empowering others to use their gifts to support the mission of the DSAU.  In her free time, she enjoys her pets, flower gardening, cooking, and spending time with her family.",
+        "value_formatted": "A wife and mom of 5, Elizabeth is a former teacher who is excited to lead the DSAU in 2026. She is passionate about empowering others to use their gifts to support the mission of the DSAU.  In her free time, she enjoys her pets, flower gardening, cooking, and spending time with her family.",
+        "value": "A wife and mom of 5, Elizabeth is a former teacher who is excited to lead the DSAU in 2026. She is passionate about empowering others to use their gifts to support the mission of the DSAU.  In her free time, she enjoys her pets, flower gardening, cooking, and spending time with her family.",
+        "field": {
+          "ID": 2913,
+          "key": "field_69655a7bfcec4",
+          "label": "Bio",
+          "name": "bio",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "textarea",
+          "value": null,
+          "menu_order": 2,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "rows": "",
+          "placeholder": "",
+          "new_lines": "",
+          "_name": "bio",
+          "_valid": 1
+        }
+      },
+      "committees": {
+        "simple_value_formatted": "Education and Enrichment Committee, Finance Committee, Fundraising Committee, Community Outreach Committee",
+        "value_formatted": "Education and Enrichment Committee, Finance Committee, Fundraising Committee, Community Outreach Committee",
+        "value": "Education and Enrichment Committee, Finance Committee, Fundraising Committee, Community Outreach Committee",
+        "field": {
+          "ID": 2914,
+          "key": "field_6966fd90e3bb5",
+          "label": "Committees",
+          "name": "committees",
+          "aria-label": "",
+          "prefix": "acf",
+          "type": "text",
+          "value": null,
+          "menu_order": 3,
+          "instructions": "",
+          "required": 0,
+          "id": "",
+          "class": "",
+          "conditional_logic": 0,
+          "parent": 2910,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": "",
+          "_name": "committees",
+          "_valid": 1
+        }
+      }
+    },
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member/2918",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/board-member"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/board-member"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media/2930"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/media?parent=2918"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

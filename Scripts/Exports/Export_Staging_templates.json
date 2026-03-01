@@ -1,0 +1,694 @@
+[
+  {
+    "id": "twentytwentyfive//page",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"var:preset|spacing|50\"}}},\"layout\":{\"type\":\"default\"},\"padding\":\"no\"} -->\n<main class=\"wp-block-group\" style=\"margin-top:0;padding-top:var(--wp--preset--spacing--50)\"><!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"0\",\"bottom\":\"var:preset|spacing|30\"}}},\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-group alignfull\" style=\"padding-top:0;padding-bottom:var(--wp--preset--spacing--30)\"><!-- wp:post-content {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"right\":\"0\",\"left\":\"0\"}}},\"layout\":{\"type\":\"constrained\",\"justifyContent\":\"center\",\"contentSize\":\"65%\"}} /--></div>\n<!-- /wp:group --></main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->"
+    },
+    "slug": "page",
+    "source": "custom",
+    "origin": "theme",
+    "type": "wp_template",
+    "description": "Displays a static page unless a custom template has been applied to that page or a dedicated template exists.",
+    "title": {
+      "raw": "Pages",
+      "rendered": "Pages"
+    },
+    "status": "publish",
+    "wp_id": 2985,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 1,
+    "modified": "2026-02-08T19:23:59",
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2988,
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page/revisions/2988"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//home",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<main class=\"wp-block-group\" style=\"margin-top:var(--wp--preset--spacing--60)\">\n\t<!-- wp:heading {\"textAlign\":\"left\",\"level\":1} -->\n<h1 class=\"wp-block-heading has-text-align-left\">Blog</h1>\n<!-- /wp:heading -->\n\n\t<!-- wp:query {\"query\":{\"perPage\":3,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":true,\"taxQuery\":null,\"parents\":[]},\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-query alignfull\">\n\t<!-- wp:post-template {\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t\t<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t\t<!-- wp:post-featured-image {\"isLink\":true,\"aspectRatio\":\"3/2\"} /-->\n\t\t\t<!-- wp:post-title {\"isLink\":true,\"fontSize\":\"x-large\"} /-->\n\t\t\t<!-- wp:post-content {\"align\":\"full\",\"fontSize\":\"medium\",\"layout\":{\"type\":\"constrained\"}} /-->\n\t\t\t<!-- wp:post-date {\"isLink\":true,\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|40\"}}},\"fontSize\":\"small\"} /-->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t<!-- /wp:post-template -->\n\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t<!-- wp:query-no-results -->\n\t\t<!-- wp:paragraph -->\n\t\t<p>Sorry, but nothing was found. Please try a search with different keywords.</p>\n\t\t<!-- /wp:paragraph -->\n\t\t<!-- /wp:query-no-results -->\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- wp:group {\"align\":\"wide\",\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group alignwide\">\n\t\t<!-- wp:query-pagination {\"paginationArrow\":\"arrow\",\"align\":\"wide\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<!-- wp:query-pagination-previous /-->\n\t\t\t<!-- wp:query-pagination-numbers /-->\n\t\t\t<!-- wp:query-pagination-next /-->\n\t\t<!-- /wp:query-pagination -->\n\t</div>\n\t<!-- /wp:group -->\n</div>\n<!-- /wp:query -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "home",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Displays the latest posts as either the site homepage or as the \"Posts page\" as defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the homepage.",
+    "title": {
+      "raw": "Blog Home",
+      "rendered": "Blog Home"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//home",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//home"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//home"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//page-no-title",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"}}}} -->\n<main class=\"wp-block-group\" style=\"margin-top:0\">\n\t<!-- wp:post-content {\"lock\":{\"move\":false,\"remove\":true},\"layout\":{\"type\":\"constrained\"}} /-->\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "page-no-title",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "",
+    "title": {
+      "raw": "Page No Title",
+      "rendered": "Page No Title"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": true,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page-no-title",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page-no-title"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//page-no-title"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//404",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|50\",\"bottom\":\"var:preset|spacing|50\",\"left\":\"var:preset|spacing|50\",\"right\":\"var:preset|spacing|50\"}}},\"layout\":{\"type\":\"default\"}} -->\n<main class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)\">\n\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"right\":\"0\",\"left\":\"0\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group\" style=\"padding-right:0;padding-left:0\">\n\t<!-- wp:columns {\"align\":\"wide\",\"style\":{\"spacing\":{\"blockGap\":{\"top\":\"var:preset|spacing|50\",\"left\":\"var:preset|spacing|50\"}}}} -->\n\t<div class=\"wp-block-columns alignwide\">\n\t\t<!-- wp:column -->\n\t\t<div class=\"wp-block-column\">\n\t\t\t<!-- wp:image {\"scale\":\"cover\",\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n\t\t\t<figure class=\"wp-block-image size-full\">\n\t\t\t\t<img src=\"https://c9s.3d3.myftpupload.com/wp-content/themes/twentytwentyfive/assets/images/404-image.webp\" alt=\"Small totara tree on ridge above Long Point\" style=\"object-fit:cover\"/>\n\t\t\t</figure>\n\t\t\t<!-- /wp:image -->\n\t\t</div>\n\t\t<!-- /wp:column -->\n\t\t<!-- wp:column {\"verticalAlignment\":\"bottom\"} -->\n\t\t<div class=\"wp-block-column is-vertically-aligned-bottom\">\n\t\t\t<!-- wp:group {\"layout\":{\"type\":\"default\"}} -->\n\t\t\t<div class=\"wp-block-group\">\n\t\t\t\t<!-- wp:heading {\"level\":1} -->\n\t\t\t\t<h1 class=\"wp-block-heading\">\n\t\t\t\t\tPage not found\t\t\t\t</h1>\n\t\t\t\t<!-- /wp:heading -->\n\t\t\t\t<!-- wp:paragraph -->\n\t\t\t\t<p>The page you are looking for doesn&#039;t exist, or it has been moved. Please try searching using the form below.</p>\n\t\t\t\t<!-- /wp:paragraph -->\n\t\t\t\t\n<!-- wp:search {\"label\":\"Search\",\"showLabel\":false,\"placeholder\":\"Type here...\",\"buttonText\":\"Search\"} /-->\n\n\t\t\t</div>\n\t\t\t<!-- /wp:group -->\n\t\t</div>\n\t\t<!-- /wp:column -->\n\t</div>\n\t<!-- /wp:columns -->\n</div>\n<!-- /wp:group -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "404",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Displays when a visitor views a non-existent page, such as a dead link or a mistyped URL.",
+    "title": {
+      "raw": "Page: 404",
+      "rendered": "Page: 404"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//404",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//404"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//404"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//single-event",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"tagName\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n<!-- wp:tec/single-event /-->\n<!-- wp:template-part {\"slug\":\"footer\",\"tagName\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "single-event",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "",
+    "title": {
+      "raw": "single-event",
+      "rendered": "single-event"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": true,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single-event",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single-event"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single-event"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//search",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<main class=\"wp-block-group\" style=\"margin-top:var(--wp--preset--spacing--60)\">\n\t<!-- wp:query-title {\"type\":\"search\"} /-->\n\t\n<!-- wp:search {\"label\":\"Search\",\"showLabel\":false,\"placeholder\":\"Type here...\",\"buttonText\":\"Search\"} /-->\n\n\t<!-- wp:query {\"query\":{\"perPage\":3,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":true,\"taxQuery\":null,\"parents\":[]},\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-query alignfull\">\n\t<!-- wp:post-template {\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t\t<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t\t<!-- wp:post-featured-image {\"isLink\":true,\"aspectRatio\":\"3/2\"} /-->\n\t\t\t<!-- wp:post-title {\"isLink\":true,\"fontSize\":\"x-large\"} /-->\n\t\t\t<!-- wp:post-content {\"align\":\"full\",\"fontSize\":\"medium\",\"layout\":{\"type\":\"constrained\"}} /-->\n\t\t\t<!-- wp:post-date {\"isLink\":true,\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|40\"}}},\"fontSize\":\"small\"} /-->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t<!-- /wp:post-template -->\n\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t<!-- wp:query-no-results -->\n\t\t<!-- wp:paragraph -->\n\t\t<p>Sorry, but nothing was found. Please try a search with different keywords.</p>\n\t\t<!-- /wp:paragraph -->\n\t\t<!-- /wp:query-no-results -->\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- wp:group {\"align\":\"wide\",\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group alignwide\">\n\t\t<!-- wp:query-pagination {\"paginationArrow\":\"arrow\",\"align\":\"wide\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<!-- wp:query-pagination-previous /-->\n\t\t\t<!-- wp:query-pagination-numbers /-->\n\t\t\t<!-- wp:query-pagination-next /-->\n\t\t<!-- /wp:query-pagination -->\n\t</div>\n\t<!-- /wp:group -->\n</div>\n<!-- /wp:query -->\n\n\t<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t<!-- wp:heading {\"align\":\"wide\",\"style\":{\"typography\":{\"textTransform\":\"uppercase\",\"fontStyle\":\"normal\",\"fontWeight\":\"700\",\"letterSpacing\":\"1.4px\"}},\"fontSize\":\"small\"} -->\n\t<h2 class=\"wp-block-heading alignwide has-small-font-size\" style=\"font-style:normal;font-weight:700;letter-spacing:1.4px;text-transform:uppercase\">More posts</h2>\n\t<!-- /wp:heading -->\n\n\t<!-- wp:query {\"query\":{\"perPage\":4,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false,\"taxQuery\":null,\"parents\":[]},\"align\":\"wide\",\"layout\":{\"type\":\"default\"}} -->\n\t<div class=\"wp-block-query alignwide\">\n\t\t<!-- wp:post-template {\"align\":\"full\",\"style\":{\"spacing\":{\"blockGap\":\"0\"}},\"layout\":{\"type\":\"default\"}} -->\n\t\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|30\",\"bottom\":\"var:preset|spacing|30\"}},\"border\":{\"bottom\":{\"color\":\"var:preset|color|accent-6\",\"width\":\"1px\"},\"top\":[],\"right\":[],\"left\":[]}},\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\",\"verticalAlignment\":\"center\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<div class=\"wp-block-group alignfull\" style=\"border-bottom-color:var(--wp--preset--color--accent-6);border-bottom-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)\">\n\t\t\t\t<!-- wp:post-title {\"level\":3,\"isLink\":true,\"fontSize\":\"large\"} /-->\n\t\t\t\t<!-- wp:post-date {\"textAlign\":\"right\",\"isLink\":true} /-->\n\t\t\t</div>\n\t\t\t<!-- /wp:group -->\n\t\t<!-- /wp:post-template -->\n\t</div>\n\t<!-- /wp:query -->\n</div>\n<!-- /wp:group -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "search",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Displays when a visitor performs a search on your website.",
+    "title": {
+      "raw": "Search Results",
+      "rendered": "Search Results"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//search",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//search"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//search"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//archive-events",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"tagName\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n<!-- wp:tec/archive-events /-->\n<!-- wp:template-part {\"slug\":\"footer\",\"tagName\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "archive-events",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "",
+    "title": {
+      "raw": "archive-events",
+      "rendered": "archive-events"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": true,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive-events",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive-events"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive-events"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//index",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<main class=\"wp-block-group\" style=\"margin-top:var(--wp--preset--spacing--60)\">\n\t<!-- wp:heading {\"textAlign\":\"left\",\"level\":1} -->\n<h1 class=\"wp-block-heading has-text-align-left\">Blog</h1>\n<!-- /wp:heading -->\n\n\t<!-- wp:query {\"query\":{\"perPage\":3,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":true,\"taxQuery\":null,\"parents\":[]},\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-query alignfull\">\n\t<!-- wp:post-template {\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t\t<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t\t<!-- wp:post-featured-image {\"isLink\":true,\"aspectRatio\":\"3/2\"} /-->\n\t\t\t<!-- wp:post-title {\"isLink\":true,\"fontSize\":\"x-large\"} /-->\n\t\t\t<!-- wp:post-content {\"align\":\"full\",\"fontSize\":\"medium\",\"layout\":{\"type\":\"constrained\"}} /-->\n\t\t\t<!-- wp:post-date {\"isLink\":true,\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|40\"}}},\"fontSize\":\"small\"} /-->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t<!-- /wp:post-template -->\n\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t<!-- wp:query-no-results -->\n\t\t<!-- wp:paragraph -->\n\t\t<p>Sorry, but nothing was found. Please try a search with different keywords.</p>\n\t\t<!-- /wp:paragraph -->\n\t\t<!-- /wp:query-no-results -->\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- wp:group {\"align\":\"wide\",\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group alignwide\">\n\t\t<!-- wp:query-pagination {\"paginationArrow\":\"arrow\",\"align\":\"wide\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<!-- wp:query-pagination-previous /-->\n\t\t\t<!-- wp:query-pagination-numbers /-->\n\t\t\t<!-- wp:query-pagination-next /-->\n\t\t<!-- /wp:query-pagination -->\n\t</div>\n\t<!-- /wp:group -->\n</div>\n<!-- /wp:query -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "index",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Used as a fallback template for all pages when a more specific template is not defined.",
+    "title": {
+      "raw": "Index",
+      "rendered": "Index"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//index",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//index"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//index"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//single",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<main class=\"wp-block-group\" style=\"margin-top:var(--wp--preset--spacing--60)\">\n\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t<!-- wp:post-title {\"level\":1} /-->\n\t\t<!-- wp:post-featured-image {\"aspectRatio\":\"3/2\"} /-->\n\t\t<!-- wp:group {\"style\":{\"spacing\":{\"blockGap\":\"0.2em\",\"margin\":{\"bottom\":\"var:preset|spacing|60\"}}},\"textColor\":\"accent-4\",\"fontSize\":\"small\",\"layout\":{\"type\":\"flex\",\"flexWrap\":\"wrap\"}} -->\n<div class=\"wp-block-group has-accent-4-color has-text-color has-link-color has-small-font-size\" style=\"margin-bottom:var(--wp--preset--spacing--60)\">\n\t<!-- wp:paragraph -->\n\t<p>Written by </p>\n\t<!-- /wp:paragraph -->\n\t<!-- wp:post-author-name {\"isLink\":true} /-->\n\t<!-- wp:paragraph -->\n\t<p>in</p>\n\t<!-- /wp:paragraph -->\n\t<!-- wp:post-terms {\"term\":\"category\",\"style\":{\"typography\":{\"fontWeight\":\"300\"}}} /-->\n</div>\n<!-- /wp:group -->\n\n\t\t<!-- wp:post-content {\"align\":\"full\",\"layout\":{\"type\":\"constrained\"}} /-->\n\t\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t\t<div class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t\t<!-- wp:post-terms {\"term\":\"post_tag\",\"separator\":\"  \",\"className\":\"is-style-post-terms-1\"} /-->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t\t\n\t\t<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-group alignwide\" style=\"margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60);\">\n\t<!-- wp:group {\"ariaLabel\":\"Post navigation\",\"tagName\":\"nav\",\"align\":\"wide\",\"style\":{\"border\":{\"top\":{\"color\":\"var:preset|color|accent-6\",\"width\":\"1px\"}},\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|40\",\"bottom\":\"var:preset|spacing|40\"}}},\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\",\"justifyContent\":\"space-between\"}} -->\n\t<nav class=\"wp-block-group alignwide\" aria-label=\"Post navigation\" style=\"border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)\">\n\t\t<!-- wp:post-navigation-link {\"type\":\"previous\",\"showTitle\":true,\"arrow\":\"arrow\"} /-->\n\t\t<!-- wp:post-navigation-link {\"showTitle\":true,\"arrow\":\"arrow\"} /-->\n\t</nav>\n\t<!-- /wp:group -->\n</div>\n<!-- /wp:group -->\n\n\t\t<!-- wp:comments {\"className\":\"wp-block-comments-query-loop\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|70\",\"bottom\":\"var:preset|spacing|70\"}}}} -->\n<div class=\"wp-block-comments wp-block-comments-query-loop\" style=\"margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70)\">\n\t<!-- wp:heading {\"fontSize\":\"x-large\"} -->\n\t<h2 class=\"wp-block-heading has-x-large-font-size\">Comments</h2>\n\t<!-- /wp:heading -->\n\t<!-- wp:comments-title {\"level\":3,\"fontSize\":\"large\"} /-->\n\t<!-- wp:comment-template -->\n\t<!-- wp:group {\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\",\"bottom\":\"var:preset|spacing|50\"}}}} -->\n\t<div class=\"wp-block-group\" style=\"margin-top:0;margin-bottom:var(--wp--preset--spacing--50)\">\n\t\t<!-- wp:group {\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\",\"verticalAlignment\":\"top\"}} -->\n\t\t<div class=\"wp-block-group\">\n\t\t\t<!-- wp:avatar {\"size\":50} /-->\n\t\t\t<!-- wp:group -->\n\t\t\t<div class=\"wp-block-group\">\n\t\t\t\t<!-- wp:comment-date /-->\n\t\t\t\t<!-- wp:comment-author-name /-->\n\t\t\t\t<!-- wp:comment-content /-->\n\t\t\t\t<!-- wp:group {\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\"}} -->\n\t\t\t\t<div class=\"wp-block-group\">\n\t\t\t\t\t<!-- wp:comment-edit-link /-->\n\t\t\t\t\t<!-- wp:comment-reply-link /-->\n\t\t\t\t</div>\n\t\t\t\t<!-- /wp:group -->\n\t\t\t</div>\n\t\t\t<!-- /wp:group -->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- /wp:comment-template -->\n\n\t<!-- wp:comments-pagination {\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n\t<!-- wp:comments-pagination-previous /-->\n\t<!-- wp:comments-pagination-next /-->\n\t<!-- /wp:comments-pagination -->\n\n\t<!-- wp:post-comments-form /-->\n</div>\n<!-- /wp:comments -->\n\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t<!-- wp:heading {\"align\":\"wide\",\"style\":{\"typography\":{\"textTransform\":\"uppercase\",\"fontStyle\":\"normal\",\"fontWeight\":\"700\",\"letterSpacing\":\"1.4px\"}},\"fontSize\":\"small\"} -->\n\t<h2 class=\"wp-block-heading alignwide has-small-font-size\" style=\"font-style:normal;font-weight:700;letter-spacing:1.4px;text-transform:uppercase\">More posts</h2>\n\t<!-- /wp:heading -->\n\n\t<!-- wp:query {\"query\":{\"perPage\":4,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false,\"taxQuery\":null,\"parents\":[]},\"align\":\"wide\",\"layout\":{\"type\":\"default\"}} -->\n\t<div class=\"wp-block-query alignwide\">\n\t\t<!-- wp:post-template {\"align\":\"full\",\"style\":{\"spacing\":{\"blockGap\":\"0\"}},\"layout\":{\"type\":\"default\"}} -->\n\t\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|30\",\"bottom\":\"var:preset|spacing|30\"}},\"border\":{\"bottom\":{\"color\":\"var:preset|color|accent-6\",\"width\":\"1px\"},\"top\":[],\"right\":[],\"left\":[]}},\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\",\"verticalAlignment\":\"center\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<div class=\"wp-block-group alignfull\" style=\"border-bottom-color:var(--wp--preset--color--accent-6);border-bottom-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)\">\n\t\t\t\t<!-- wp:post-title {\"level\":3,\"isLink\":true,\"fontSize\":\"large\"} /-->\n\t\t\t\t<!-- wp:post-date {\"textAlign\":\"right\",\"isLink\":true} /-->\n\t\t\t</div>\n\t\t\t<!-- /wp:group -->\n\t\t<!-- /wp:post-template -->\n\t</div>\n\t<!-- /wp:query -->\n</div>\n<!-- /wp:group -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "single",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Displays a single post on your website unless a custom template has been applied to that post or a dedicated template exists.",
+    "title": {
+      "raw": "Single Posts",
+      "rendered": "Single Posts"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//single"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "twentytwentyfive//archive",
+    "theme": "twentytwentyfive",
+    "content": {
+      "raw": "<!-- wp:template-part {\"slug\":\"header\",\"theme\":\"twentytwentyfive\"} /-->\n\n<!-- wp:group {\"tagName\":\"main\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<main class=\"wp-block-group\" style=\"margin-top:var(--wp--preset--spacing--60)\">\n\t<!-- wp:query-title {\"type\":\"archive\"} /-->\n\t <!-- wp:term-description /-->\n\t<!-- wp:query {\"query\":{\"perPage\":3,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":true,\"taxQuery\":null,\"parents\":[]},\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n<div class=\"wp-block-query alignfull\">\n\t<!-- wp:post-template {\"align\":\"full\",\"layout\":{\"type\":\"default\"}} -->\n\t\t<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t\t<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t\t<!-- wp:post-featured-image {\"isLink\":true,\"aspectRatio\":\"3/2\"} /-->\n\t\t\t<!-- wp:post-title {\"isLink\":true,\"fontSize\":\"x-large\"} /-->\n\t\t\t<!-- wp:post-content {\"align\":\"full\",\"fontSize\":\"medium\",\"layout\":{\"type\":\"constrained\"}} /-->\n\t\t\t<!-- wp:post-date {\"isLink\":true,\"style\":{\"spacing\":{\"margin\":{\"top\":\"var:preset|spacing|40\"}}},\"fontSize\":\"small\"} /-->\n\t\t</div>\n\t\t<!-- /wp:group -->\n\t<!-- /wp:post-template -->\n\t<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|60\",\"bottom\":\"var:preset|spacing|60\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group\" style=\"padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)\">\n\t\t<!-- wp:query-no-results -->\n\t\t<!-- wp:paragraph -->\n\t\t<p>Sorry, but nothing was found. Please try a search with different keywords.</p>\n\t\t<!-- /wp:paragraph -->\n\t\t<!-- /wp:query-no-results -->\n\t</div>\n\t<!-- /wp:group -->\n\t<!-- wp:group {\"align\":\"wide\",\"layout\":{\"type\":\"constrained\"}} -->\n\t<div class=\"wp-block-group alignwide\">\n\t\t<!-- wp:query-pagination {\"paginationArrow\":\"arrow\",\"align\":\"wide\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n\t\t\t<!-- wp:query-pagination-previous /-->\n\t\t\t<!-- wp:query-pagination-numbers /-->\n\t\t\t<!-- wp:query-pagination-next /-->\n\t\t<!-- /wp:query-pagination -->\n\t</div>\n\t<!-- /wp:group -->\n</div>\n<!-- /wp:query -->\n\n</main>\n<!-- /wp:group -->\n\n<!-- wp:template-part {\"slug\":\"footer\",\"theme\":\"twentytwentyfive\"} /-->\n"
+    },
+    "slug": "archive",
+    "source": "theme",
+    "origin": null,
+    "type": "wp_template",
+    "description": "Displays any archive, including posts by a single author, category, tag, taxonomy, custom post type, and date. This template will serve as a fallback when more specific templates (e.g. Category or Tag) cannot be found.",
+    "title": {
+      "raw": "All Archives",
+      "rendered": "All Archives"
+    },
+    "status": "publish",
+    "wp_id": 0,
+    "has_theme_file": true,
+    "is_custom": false,
+    "author": 0,
+    "modified": false,
+    "author_text": "Twenty Twenty-Five",
+    "original_source": "theme",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/types/wp_template"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://c9s.3d3.myftpupload.com/wp-json/wp/v2/templates/twentytwentyfive//archive"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

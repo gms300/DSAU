@@ -1,0 +1,2 @@
+- Change Email sender
+- Update events page

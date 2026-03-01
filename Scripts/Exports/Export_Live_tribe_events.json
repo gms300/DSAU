@@ -1,0 +1,1769 @@
+[
+  {
+    "id": 2988,
+    "date": "2026-02-09T19:19:50",
+    "date_gmt": "2026-02-10T00:19:50",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2988"
+    },
+    "modified": "2026-02-09T19:19:50",
+    "modified_gmt": "2026-02-10T00:19:50",
+    "slug": "november-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=november-moms-night-out",
+    "title": {
+      "rendered": "November Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2988",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2988",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2988/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2989,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2988/revisions/2989"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2988"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2988"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2988"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2986,
+    "date": "2026-02-09T19:18:52",
+    "date_gmt": "2026-02-10T00:18:52",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2986"
+    },
+    "modified": "2026-02-09T19:18:52",
+    "modified_gmt": "2026-02-10T00:18:52",
+    "slug": "october-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=october-moms-night-out",
+    "title": {
+      "rendered": "October Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2986",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2986",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2986/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2987,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2986/revisions/2987"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2986"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2986"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2986"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2984,
+    "date": "2026-02-09T19:17:19",
+    "date_gmt": "2026-02-10T00:17:19",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2984"
+    },
+    "modified": "2026-02-09T19:17:19",
+    "modified_gmt": "2026-02-10T00:17:19",
+    "slug": "september-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=september-moms-night-out",
+    "title": {
+      "rendered": "September Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2984",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2984",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2984/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2985,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2984/revisions/2985"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2984"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2984"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2984"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2982,
+    "date": "2026-02-09T19:16:17",
+    "date_gmt": "2026-02-10T00:16:17",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2982"
+    },
+    "modified": "2026-02-09T19:29:02",
+    "modified_gmt": "2026-02-10T00:29:02",
+    "slug": "august-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=august-moms-night-out",
+    "title": {
+      "rendered": "August Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>Self Defense Class</h1>\n<h3>Location</h3>\n<p>Greenville Academy of Maritail Arts</p>\n<p>872 Woodruff Rd (across from Beck Academy)</p>\n<p>6:30 pm</p>\n<p>Cost is $5 per person</p>\n<p>Dinner/snacks to follow is a possibility.</p>\n<p>&nbsp;</p>\n<p>More Details Coming Soon!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Self Defense Class Location Greenville Academy of Maritail Arts 872 Woodruff Rd (across from Beck Academy) 6:30 pm Cost is $5 per person Dinner/snacks to follow is a possibility. &nbsp;&hellip;&nbsp;<a href=\"https://dsaupstate.org/?tribe_events=august-moms-night-out\" rel=\"bookmark\">Read More &raquo;<span class=\"screen-reader-text\">August Mom&#8217;s Night Out</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2982",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2982",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2982/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2992,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2982/revisions/2992"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2982"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2982"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2982"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2980,
+    "date": "2026-02-09T19:15:13",
+    "date_gmt": "2026-02-10T00:15:13",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2980"
+    },
+    "modified": "2026-02-09T19:15:13",
+    "modified_gmt": "2026-02-10T00:15:13",
+    "slug": "july-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=july-moms-night-out",
+    "title": {
+      "rendered": "July Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2980",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2980",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2980/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2981,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2980/revisions/2981"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2980"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2980"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2980"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2978,
+    "date": "2026-02-09T19:14:01",
+    "date_gmt": "2026-02-10T00:14:01",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2978"
+    },
+    "modified": "2026-02-09T19:14:01",
+    "modified_gmt": "2026-02-10T00:14:01",
+    "slug": "june-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=june-moms-night-out",
+    "title": {
+      "rendered": "June Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2978",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2978",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2978/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2979,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2978/revisions/2979"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2978"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2978"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2978"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2976,
+    "date": "2026-02-09T19:10:07",
+    "date_gmt": "2026-02-10T00:10:07",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2976"
+    },
+    "modified": "2026-02-09T19:10:07",
+    "modified_gmt": "2026-02-10T00:10:07",
+    "slug": "may-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=may-moms-night-out",
+    "title": {
+      "rendered": "May Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2976",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2976",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2976/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2977,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2976/revisions/2977"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2976"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2976"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2976"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2974,
+    "date": "2026-02-09T19:03:55",
+    "date_gmt": "2026-02-10T00:03:55",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2974"
+    },
+    "modified": "2026-02-09T19:12:43",
+    "modified_gmt": "2026-02-10T00:12:43",
+    "slug": "april-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=april-moms-night-out",
+    "title": {
+      "rendered": "April Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2974",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2974",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2974/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2975,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2974/revisions/2975"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2974"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2974"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2974"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2972,
+    "date": "2026-02-09T19:01:39",
+    "date_gmt": "2026-02-10T00:01:39",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2972"
+    },
+    "modified": "2026-02-09T19:07:49",
+    "modified_gmt": "2026-02-10T00:07:49",
+    "slug": "march-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=march-moms-night-out",
+    "title": {
+      "rendered": "March Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<h1>TBD</h1>\n<p>Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>TBD Come back soon for more details!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2972",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2972",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2972/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2973,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2972/revisions/2973"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2972"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2972"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2972"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2959,
+    "date": "2026-02-09T18:20:08",
+    "date_gmt": "2026-02-09T23:20:08",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2959"
+    },
+    "modified": "2026-02-09T18:56:01",
+    "modified_gmt": "2026-02-09T23:56:01",
+    "slug": "february-moms-night-out",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=february-moms-night-out",
+    "title": {
+      "rendered": "February Mom&#8217;s Night Out"
+    },
+    "content": {
+      "rendered": "<div class=\"html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl\" tabindex=\"-1\">\n<div class=\"html-div xdj266r x14z9mp x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1e56ztr\"><span class=\"x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x6prxxf xvq8zen xo1l8bm xzsf02u\">Join us for a Mom’s Day Out trip to the <span class=\"html-span xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs\"><strong class=\"html-strong xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x1s688f\">Asheville Farmers Market</strong></span> on <span class=\"html-span xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs\"><strong class=\"html-strong xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x1s688f\">2/21/26</strong></span>!</span></div>\n<div></div>\n</div>\n<div class=\"html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl\" tabindex=\"-1\">\n<div class=\"html-div xdj266r x14z9mp x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1e56ztr\"><span class=\"x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x6prxxf xvq8zen xo1l8bm xzsf02u\">We’ll carpool (departure location will depend on who RSVPs), grab coffee, wander, shop, snack, and just enjoy a day out together.</span></div>\n</div>\n<div></div>\n<div>\n<hr />\n</div>\n<div><strong>RSVP</strong></div>\n<div><div class=\"forminator-ui forminator-custom-form forminator-custom-form-2962 forminator-design--material  forminator_ajax\" data-forminator-render=\"0\" data-form=\"forminator-module-2962\" data-uid=\"6997d8e3a6320\"><br/></div><form\r\n\t\t\t\tid=\"forminator-module-2962\"\r\n\t\t\t\tclass=\"forminator-ui forminator-custom-form forminator-custom-form-2962 forminator-design--material  forminator_ajax\"\r\n\t\t\t\tmethod=\"post\"\r\n\t\t\t\tdata-forminator-render=\"0\"\r\n\t\t\t\tdata-form-id=\"2962\"\r\n\t\t\t\t data-color-option=\"theme\" data-design=\"material\" data-grid=\"open\" style=\"display: none;\"\r\n\t\t\t\tdata-uid=\"6997d8e3a6320\"\r\n\t\t\t><div role=\"alert\" aria-live=\"polite\" class=\"forminator-response-message forminator-error\" aria-hidden=\"true\"></div><div class=\"forminator-row\"><div id=\"name-1\" class=\"forminator-field-name forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-name-1_6997d8e3a6320\" id=\"forminator-field-name-1_6997d8e3a6320-label\" class=\"forminator-label\">Full Name <span class=\"forminator-required\">*</span></label><input type=\"text\" name=\"name-1\" value=\"\" placeholder=\"\" id=\"forminator-field-name-1_6997d8e3a6320\" class=\"forminator-input forminator-name--field\" aria-required=\"true\" autocomplete=\"name\" /></div></div></div><div class=\"forminator-row\"><div id=\"email-1\" class=\"forminator-field-email forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-email-1_6997d8e3a6320\" id=\"forminator-field-email-1_6997d8e3a6320-label\" class=\"forminator-label\">Email Address <span class=\"forminator-required\">*</span></label><input type=\"email\" name=\"email-1\" value=\"\" placeholder=\"\" id=\"forminator-field-email-1_6997d8e3a6320\" class=\"forminator-input forminator-email--field\" data-required=\"1\" aria-required=\"true\" autocomplete=\"email\" /></div></div></div><div class=\"forminator-row\"><div id=\"phone-1\" class=\"forminator-field-phone forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-phone-1_6997d8e3a6320\" id=\"forminator-field-phone-1_6997d8e3a6320-label\" class=\"forminator-label\">Phone Number <span class=\"forminator-required\">*</span></label><input type=\"text\" name=\"phone-1\" value=\"\" placeholder=\"\" id=\"forminator-field-phone-1_6997d8e3a6320\" class=\"forminator-input forminator-field--phone\" data-required=\"1\" aria-required=\"true\" autocomplete=\"off\" /></div></div></div><div class=\"forminator-row\"><div id=\"radio-1\" class=\"forminator-field-radio forminator-col forminator-col-6 \"><div role=\"radiogroup\" class=\"forminator-field\" aria-labelledby=\"forminator-radiogroup-radio-1-6997d8e3a6320-label\"><span id=\"forminator-radiogroup-radio-1-6997d8e3a6320-label\" class=\"forminator-label\">How many attending? (helpful for headcount) <span class=\"forminator-required\">*</span></span><label id=\"forminator-field-radio-1-label-1\" for=\"forminator-field-radio-1-1-6997d8e3a6320\" class=\"forminator-radio\" title=\"1 (Just Me)\"><input type=\"radio\" name=\"radio-1\" value=\"one\" id=\"forminator-field-radio-1-1-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-1-label-1\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">1 (Just Me)</span></label><label id=\"forminator-field-radio-1-label-2\" for=\"forminator-field-radio-1-2-6997d8e3a6320\" class=\"forminator-radio\" title=\"2\"><input type=\"radio\" name=\"radio-1\" value=\"two\" id=\"forminator-field-radio-1-2-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-1-label-2\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">2</span></label><label id=\"forminator-field-radio-1-label-3\" for=\"forminator-field-radio-1-3-6997d8e3a6320\" class=\"forminator-radio\" title=\"More\"><input type=\"radio\" name=\"radio-1\" value=\"custom_option\" id=\"forminator-field-radio-1-3-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-1-label-3\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">More</span></label><div class=\"forminator-field forminator-custom-input\"><input id=\"custom-forminator-field-radio-1-3-6997d8e3a6320\" name=\"custom-radio-1\" aria-labelledby=\"forminator-field-radio-1-label-3\" class=\"forminator-input\" value=\"\" /></div></div></div><div id=\"radio-2\" class=\"forminator-field-radio forminator-col forminator-col-6 \"><div role=\"radiogroup\" class=\"forminator-field\" aria-labelledby=\"forminator-radiogroup-radio-2-6997d8e3a6320-label\"><span id=\"forminator-radiogroup-radio-2-6997d8e3a6320-label\" class=\"forminator-label\">Are you interested in carpooling? <span class=\"forminator-required\">*</span></span><label id=\"forminator-field-radio-2-label-1\" for=\"forminator-field-radio-2-1-6997d8e3a6320\" class=\"forminator-radio\" title=\"Yes\"><input type=\"radio\" name=\"radio-2\" value=\"one\" id=\"forminator-field-radio-2-1-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-2-label-1\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">Yes</span></label><label id=\"forminator-field-radio-2-label-2\" for=\"forminator-field-radio-2-2-6997d8e3a6320\" class=\"forminator-radio\" title=\"Yes and I can drive\"><input type=\"radio\" name=\"radio-2\" value=\"two\" id=\"forminator-field-radio-2-2-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-2-label-2\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">Yes and I can drive</span></label><label id=\"forminator-field-radio-2-label-3\" for=\"forminator-field-radio-2-3-6997d8e3a6320\" class=\"forminator-radio\" title=\"No\"><input type=\"radio\" name=\"radio-2\" value=\"No\" id=\"forminator-field-radio-2-3-6997d8e3a6320\" aria-labelledby=\"forminator-field-radio-2-label-3\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">No</span></label></div></div></div><div class=\"forminator-row\"><div id=\"textarea-1\" class=\"forminator-field-textarea forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-textarea-1_6997d8e3a6320\" id=\"forminator-field-textarea-1_6997d8e3a6320-label\" class=\"forminator-label\">Any additional info we may need to know?</label><textarea name=\"textarea-1\" placeholder=\"\" id=\"forminator-field-textarea-1_6997d8e3a6320\" class=\"forminator-textarea\" rows=\"6\" style=\"min-height:140px;\" ></textarea></div></div></div><input type=\"hidden\" name=\"referer_url\" value=\"\" /><div class=\"forminator-row forminator-row-last\"><div class=\"forminator-col\"><div class=\"forminator-field\"><button class=\"forminator-button forminator-button-submit\"><span>Submit</span><span aria-hidden=\"true\"></span></button></div></div></div><input type=\"hidden\" id=\"forminator_nonce\" name=\"forminator_nonce\" value=\"39a8056ede\" /><input type=\"hidden\" name=\"_wp_http_referer\" value=\"/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events&#038;per_page=100&#038;page=1\" /><input type=\"hidden\" name=\"form_id\" value=\"2962\"><input type=\"hidden\" name=\"page_id\" value=\"2959\"><input type=\"hidden\" name=\"form_type\" value=\"default\"><input type=\"hidden\" name=\"current_url\" value=\"https://dsaupstate.org/?tribe_events=february-moms-night-out\"><input type=\"hidden\" name=\"render_id\" value=\"0\"><input type=\"hidden\" name=\"action\" value=\"forminator_submit_form_custom-forms\"></form><div class=\"forminator-edit-module\"><small><a\r\n\t\t\t\t\t\tclass=\"forminator-module-edit-link\"\r\n\t\t\t\t\t\ttitle=\"Edit form\"\r\n\t\t\t\t\t\thref=\"https://dsaupstate.org/wp-admin/admin.php?page=forminator-cform-wizard&#038;id=2962\"\r\n\t\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t\t\trel=\"noreferrer\"\r\n\t\t\t\t\t>Edit form</a></small></div></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Join us for a Mom’s Day Out trip to the Asheville Farmers Market on 2/21/26! We’ll carpool (departure location will depend on who RSVPs), grab coffee, wander, shop, snack, and just enjoy&hellip;&nbsp;<a href=\"https://dsaupstate.org/?tribe_events=february-moms-night-out\" rel=\"bookmark\">Read More &raquo;<span class=\"screen-reader-text\">February Mom&#8217;s Night Out</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2961,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [
+      11,
+      12
+    ],
+    "tribe_events_cat": [
+      7,
+      6,
+      5
+    ],
+    "class_list": [
+      "post-2959",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "tag-mno",
+      "tag-moms-night-out",
+      "tribe_events_cat-mno",
+      "tribe_events_cat-parent-caregiver-events",
+      "tribe_events_cat-social-events",
+      "cat_mno",
+      "cat_parent-caregiver-events",
+      "cat_social-events"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2959",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 10,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2959/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2971,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2959/revisions/2971"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/media/2961"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2959"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2959"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2959"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2942,
+    "date": "2026-01-27T21:37:33",
+    "date_gmt": "2026-01-28T02:37:33",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_events&#038;p=2942"
+    },
+    "modified": "2026-01-28T13:06:08",
+    "modified_gmt": "2026-01-28T18:06:08",
+    "slug": "childrens-museum",
+    "status": "publish",
+    "type": "tribe_events",
+    "link": "https://dsaupstate.org/?tribe_events=childrens-museum",
+    "title": {
+      "rendered": "Children&#8217;s Museum"
+    },
+    "content": {
+      "rendered": "<p>We’ve been selected as one of the organizations to receive guest passes to The Children’s Museum of the Upstate.</p>\n<p>If you’d like tickets for your family, please complete the form below. Once submitted, you’ll receive an email with our access code.</p>\n<p>To ensure as many families as possible can participate, there is a limit of five (5) tickets per family. Tickets may be used at either the Greenville or Spartanburg location.</p>\n<p><strong>Please note: Tickets are limited and will be distributed on a first-come, first-served basis. Reserve early.</strong></p>\n<div class=\"forminator-ui forminator-custom-form forminator-custom-form-2945 forminator-design--default  forminator_ajax\" data-forminator-render=\"0\" data-form=\"forminator-module-2945\" data-uid=\"6997d8e3ba156\"><br/></div><form\r\n\t\t\t\tid=\"forminator-module-2945\"\r\n\t\t\t\tclass=\"forminator-ui forminator-custom-form forminator-custom-form-2945 forminator-design--default  forminator_ajax\"\r\n\t\t\t\tmethod=\"post\"\r\n\t\t\t\tdata-forminator-render=\"0\"\r\n\t\t\t\tdata-form-id=\"2945\"\r\n\t\t\t\t data-color-option=\"theme\" data-design=\"default\" data-grid=\"open\" style=\"display: none;\"\r\n\t\t\t\tdata-uid=\"6997d8e3ba156\"\r\n\t\t\t><div role=\"alert\" aria-live=\"polite\" class=\"forminator-response-message forminator-error\" aria-hidden=\"true\"></div><div class=\"forminator-row\"><div id=\"email-1\" class=\"forminator-field-email forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-email-1_6997d8e3ba156\" id=\"forminator-field-email-1_6997d8e3ba156-label\" class=\"forminator-label\">Email Address <span class=\"forminator-required\">*</span></label><input type=\"email\" name=\"email-1\" value=\"\" placeholder=\"\" id=\"forminator-field-email-1_6997d8e3ba156\" class=\"forminator-input forminator-email--field\" data-required=\"1\" aria-required=\"true\" autocomplete=\"email\" /></div></div></div><div class=\"forminator-row\"><div id=\"text-1\" class=\"forminator-field-text forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-text-1_6997d8e3ba156\" id=\"forminator-field-text-1_6997d8e3ba156-label\" class=\"forminator-label\">County of Residence <span class=\"forminator-required\">*</span></label><input type=\"text\" name=\"text-1\" value=\"\" placeholder=\"\" id=\"forminator-field-text-1_6997d8e3ba156\" class=\"forminator-input forminator-name--field\" data-required=\"1\" /></div></div></div><div class=\"forminator-row\"><div id=\"name-1\" class=\"forminator-field-name forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-name-1_6997d8e3ba156\" id=\"forminator-field-name-1_6997d8e3ba156-label\" class=\"forminator-label\">Parent/Guardian/Chaperone <span class=\"forminator-required\">*</span></label><span id=\"forminator-field-name-1_6997d8e3ba156-description\" class=\"forminator-description\">First and Last Name</span><input type=\"text\" name=\"name-1\" value=\"\" placeholder=\"\" id=\"forminator-field-name-1_6997d8e3ba156\" class=\"forminator-input forminator-name--field\" aria-required=\"true\" autocomplete=\"name\" aria-describedby=\"forminator-field-name-1_6997d8e3ba156-description\" /></div></div></div><div class=\"forminator-row\"><div id=\"name-2\" class=\"forminator-field-name forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-name-2_6997d8e3ba156\" id=\"forminator-field-name-2_6997d8e3ba156-label\" class=\"forminator-label\">Person with Down syndrome <span class=\"forminator-required\">*</span></label><span id=\"forminator-field-name-2_6997d8e3ba156-description\" class=\"forminator-description\">First and Last Name</span><input type=\"text\" name=\"name-2\" value=\"\" placeholder=\"\" id=\"forminator-field-name-2_6997d8e3ba156\" class=\"forminator-input forminator-name--field\" aria-required=\"true\" autocomplete=\"name\" aria-describedby=\"forminator-field-name-2_6997d8e3ba156-description\" /></div></div></div><div class=\"forminator-row\"><div id=\"number-1\" class=\"forminator-field-number forminator-col forminator-col-12 \"><div class=\"forminator-field\"><label for=\"forminator-field-number-1_6997d8e3ba156\" id=\"forminator-field-number-1_6997d8e3ba156-label\" class=\"forminator-label\">Age of person with Down Syndrome <span class=\"forminator-required\">*</span></label><input name=\"number-1\" value=\"\" placeholder=\"\" id=\"forminator-field-number-1_6997d8e3ba156\" class=\"forminator-input forminator-number--field\" inputmode=\"decimal\" data-required=\"1\" data-decimals=\"0\" aria-required=\"true\" data-inputmask=\"&#039;groupSeparator&#039;: &#039;&#039;, &#039;radixPoint&#039;: &#039;&#039;, &#039;digits&#039;: &#039;0&#039;\" data-hidden-behavior=\"zero\" type=\"number\" step=\"any\" min=\"1\" max=\"150\" /></div></div></div><div class=\"forminator-row\"><div id=\"radio-1\" class=\"forminator-field-radio forminator-col forminator-col-12 \"><div role=\"radiogroup\" class=\"forminator-field\" aria-labelledby=\"forminator-radiogroup-radio-1-6997d8e3ba156-label\"><span id=\"forminator-radiogroup-radio-1-6997d8e3ba156-label\" class=\"forminator-label\">Number of tickets requesting <span class=\"forminator-required\">*</span></span><label id=\"forminator-field-radio-1-label-1\" for=\"forminator-field-radio-1-1-6997d8e3ba156\" class=\"forminator-radio\" title=\"1\"><input type=\"radio\" name=\"radio-1\" value=\"one\" id=\"forminator-field-radio-1-1-6997d8e3ba156\" aria-labelledby=\"forminator-field-radio-1-label-1\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">1</span></label><label id=\"forminator-field-radio-1-label-2\" for=\"forminator-field-radio-1-2-6997d8e3ba156\" class=\"forminator-radio\" title=\"2\"><input type=\"radio\" name=\"radio-1\" value=\"two\" id=\"forminator-field-radio-1-2-6997d8e3ba156\" aria-labelledby=\"forminator-field-radio-1-label-2\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">2</span></label><label id=\"forminator-field-radio-1-label-3\" for=\"forminator-field-radio-1-3-6997d8e3ba156\" class=\"forminator-radio\" title=\"3\"><input type=\"radio\" name=\"radio-1\" value=\"3\" id=\"forminator-field-radio-1-3-6997d8e3ba156\" aria-labelledby=\"forminator-field-radio-1-label-3\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">3</span></label><label id=\"forminator-field-radio-1-label-4\" for=\"forminator-field-radio-1-4-6997d8e3ba156\" class=\"forminator-radio\" title=\"4\"><input type=\"radio\" name=\"radio-1\" value=\"4\" id=\"forminator-field-radio-1-4-6997d8e3ba156\" aria-labelledby=\"forminator-field-radio-1-label-4\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">4</span></label><label id=\"forminator-field-radio-1-label-5\" for=\"forminator-field-radio-1-5-6997d8e3ba156\" class=\"forminator-radio\" title=\"5\"><input type=\"radio\" name=\"radio-1\" value=\"5\" id=\"forminator-field-radio-1-5-6997d8e3ba156\" aria-labelledby=\"forminator-field-radio-1-label-5\" data-calculation=\"0\"   data-hidden-behavior=\"zero\"/><span class=\"forminator-radio-bullet\" aria-hidden=\"true\"></span><span class=\"forminator-radio-label\">5</span></label></div></div></div><input type=\"hidden\" name=\"referer_url\" value=\"\" /><div class=\"forminator-row forminator-row-last\"><div class=\"forminator-col\"><div class=\"forminator-field\"><button class=\"forminator-button forminator-button-submit\">Submit</button></div></div></div><input type=\"hidden\" id=\"forminator_nonce\" name=\"forminator_nonce\" value=\"7c33a0fc64\" /><input type=\"hidden\" name=\"_wp_http_referer\" value=\"/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events&#038;per_page=100&#038;page=1\" /><input type=\"hidden\" name=\"form_id\" value=\"2945\"><input type=\"hidden\" name=\"page_id\" value=\"2942\"><input type=\"hidden\" name=\"form_type\" value=\"default\"><input type=\"hidden\" name=\"current_url\" value=\"https://dsaupstate.org/?tribe_events=childrens-museum\"><input type=\"hidden\" name=\"render_id\" value=\"0\"><input type=\"hidden\" name=\"action\" value=\"forminator_submit_form_custom-forms\"><input id=\"forminator_current_geolocation_2945\" type=\"hidden\" name=\"forminator_current_location\" value=\"\" autocomplete=\"off\"><input id=\"forminator_current_address_2945\" type=\"hidden\" name=\"forminator_current_address\" value=\"\" autocomplete=\"off\"><input type=\"hidden\" name=\"forminator_current_location_error\" value=\"\" autocomplete=\"off\"></form><div class=\"forminator-edit-module\"><small><a\r\n\t\t\t\t\t\tclass=\"forminator-module-edit-link\"\r\n\t\t\t\t\t\ttitle=\"Edit form\"\r\n\t\t\t\t\t\thref=\"https://dsaupstate.org/wp-admin/admin.php?page=forminator-cform-wizard&#038;id=2945\"\r\n\t\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t\t\trel=\"noreferrer\"\r\n\t\t\t\t\t>Edit form</a></small></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>We’ve been selected as one of the organizations to receive guest passes to The Children’s Museum of the Upstate. If you’d like tickets for your family, please complete the form&hellip;&nbsp;<a href=\"https://dsaupstate.org/?tribe_events=childrens-museum\" rel=\"bookmark\">Read More &raquo;<span class=\"screen-reader-text\">Children&#8217;s Museum</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "TEC\\Tickets\\Commerce\\Module",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "_tribe_events_status": "",
+      "_tribe_events_status_reason": "",
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "tags": [],
+    "tribe_events_cat": [
+      4
+    ],
+    "class_list": [
+      "post-2942",
+      "tribe_events",
+      "type-tribe_events",
+      "status-publish",
+      "hentry",
+      "tribe_events_cat-education",
+      "cat_education"
+    ],
+    "acf": [],
+    "ticketed": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2942",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_events"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2942/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2946,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_events/2942/revisions/2946"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2942"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftags&post=2942"
+        },
+        {
+          "taxonomy": "tribe_events_cat",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Ftribe_events_cat&post=2942"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "id": 772,
+    "date": "2025-02-19T16:07:18",
+    "date_gmt": "2025-02-19T16:07:18",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=download&#038;p=772"
+    },
+    "modified": "2025-02-19T20:14:11",
+    "modified_gmt": "2025-02-19T20:14:11",
+    "slug": "world-down-syndrome-day-coloring-page-rockin-my-socks",
+    "status": "publish",
+    "type": "download",
+    "link": "https://dsaupstate.org/?download=world-down-syndrome-day-coloring-page-rockin-my-socks",
+    "title": {
+      "rendered": "World Down Syndrome Day Coloring Page &#8220;Rockin&#8217; My Socks&#8221;"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2-791x1024.png\" alt=\"\" class=\"wp-image-773\" srcset=\"https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2-791x1024.png 791w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2-232x300.png 232w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2-768x994.png 768w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2-1187x1536.png 1187w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring2.png 1545w\" sizes=\"auto, (max-width: 791px) 100vw, 791px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 773,
+    "template": "",
+    "edd-categories": [
+      3
+    ],
+    "edd-tags": [],
+    "class_list": [
+      "post-772",
+      "download",
+      "type-download",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "download_category-free",
+      "edd-download",
+      "edd-download-cat-free"
+    ],
+    "acf": [],
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/772",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/download"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/772/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 774,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/772/revisions/774"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/media/773"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=772"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "download_category",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-categories&post=772"
+        },
+        {
+          "taxonomy": "download_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-tags&post=772"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 768,
+    "date": "2025-02-19T16:06:27",
+    "date_gmt": "2025-02-19T16:06:27",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=download&#038;p=768"
+    },
+    "modified": "2025-02-19T20:15:00",
+    "modified_gmt": "2025-02-19T20:15:00",
+    "slug": "world-down-syndrome-day-coloring-page-rock-your-socks",
+    "status": "publish",
+    "type": "download",
+    "link": "https://dsaupstate.org/?download=world-down-syndrome-day-coloring-page-rock-your-socks",
+    "title": {
+      "rendered": "World Down Syndrome Day Coloring Page &#8220;Rock your Socks!&#8221;"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1-791x1024.png\" alt=\"\" class=\"wp-image-770\" srcset=\"https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1-791x1024.png 791w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1-232x300.png 232w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1-768x994.png 768w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1-1187x1536.png 1187w, https://dsaupstate.org/wp-content/uploads/2025/02/Coloring1.png 1545w\" sizes=\"auto, (max-width: 791px) 100vw, 791px\" /></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 769,
+    "template": "",
+    "edd-categories": [],
+    "edd-tags": [],
+    "class_list": [
+      "post-768",
+      "download",
+      "type-download",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "edd-download"
+    ],
+    "acf": [],
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/768",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/download"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/768/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 771,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/768/revisions/771"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/media/769"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=768"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "download_category",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-categories&post=768"
+        },
+        {
+          "taxonomy": "download_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-tags&post=768"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 764,
+    "date": "2025-02-19T16:05:12",
+    "date_gmt": "2025-02-19T16:05:12",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=download&#038;p=764"
+    },
+    "modified": "2025-02-19T19:26:31",
+    "modified_gmt": "2025-02-19T19:26:31",
+    "slug": "world-down-syndrome-day-world-activity",
+    "status": "publish",
+    "type": "download",
+    "link": "https://dsaupstate.org/?download=world-down-syndrome-day-world-activity",
+    "title": {
+      "rendered": "World Down Syndrome Day World Activity"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://dsaupstate.org/wp-content/uploads/2025/02/Globe-791x1024.png\" alt=\"\" class=\"wp-image-765\" srcset=\"https://dsaupstate.org/wp-content/uploads/2025/02/Globe-791x1024.png 791w, https://dsaupstate.org/wp-content/uploads/2025/02/Globe-232x300.png 232w, https://dsaupstate.org/wp-content/uploads/2025/02/Globe-768x994.png 768w, https://dsaupstate.org/wp-content/uploads/2025/02/Globe-1187x1536.png 1187w, https://dsaupstate.org/wp-content/uploads/2025/02/Globe.png 1545w\" sizes=\"auto, (max-width: 791px) 100vw, 791px\" /></figure>\n\n\n\n<p>Get creative and celebrate <strong>World Down Syndrome Day</strong> with this <strong>fun and interactive globe coloring activity!</strong> 🌍</p>\n\n\n\n<p>Kids can <strong>design their own unique globe</strong> to show their support and spread awareness. After coloring, they’ll <strong>cut, fold, and glue</strong> the pieces together to complete their globe creation!</p>\n\n\n\n<p>✨ <strong>What’s Included?</strong><br>✔️ Printable globe coloring page<br>✔️ Easy cut-and-paste assembly<br>✔️ Perfect for classrooms, homeschool, or family fun!</p>\n\n\n\n<p>Let’s celebrate differences in a colorful way! 💙💛</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Get creative and celebrate World Down Syndrome Day with this fun and interactive globe coloring activity! 🌍 Kids can design their own unique globe to show their support and spread&hellip;&nbsp;<a href=\"https://dsaupstate.org/?download=world-down-syndrome-day-world-activity\" rel=\"bookmark\">Read More &raquo;<span class=\"screen-reader-text\">World Down Syndrome Day World Activity</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 766,
+    "template": "",
+    "edd-categories": [],
+    "edd-tags": [],
+    "class_list": [
+      "post-764",
+      "download",
+      "type-download",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "edd-download"
+    ],
+    "acf": [],
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/764",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/download"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/764/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 767,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/764/revisions/767"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/media/766"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=764"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "download_category",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-categories&post=764"
+        },
+        {
+          "taxonomy": "download_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-tags&post=764"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 756,
+    "date": "2025-02-19T15:56:55",
+    "date_gmt": "2025-02-19T15:56:55",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=download&#038;p=756"
+    },
+    "modified": "2025-02-19T19:25:40",
+    "modified_gmt": "2025-02-19T19:25:40",
+    "slug": "world-down-syndrome-day-sock-activity",
+    "status": "publish",
+    "type": "download",
+    "link": "https://dsaupstate.org/?download=world-down-syndrome-day-sock-activity",
+    "title": {
+      "rendered": "World Down Syndrome Day Sock Activity"
+    },
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"883\" height=\"1024\" src=\"https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM-883x1024.png\" alt=\"\" class=\"wp-image-761\" srcset=\"https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM-883x1024.png 883w, https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM-259x300.png 259w, https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM-768x890.png 768w, https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM-1325x1536.png 1325w, https://dsaupstate.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.55.43 AM.png 1446w\" sizes=\"auto, (max-width: 883px) 100vw, 883px\" /></figure>\n\n\n\n<p>Get creative and celebrate <strong>World Down Syndrome Day</strong> with this <strong>fun and interactive sock coloring activity!</strong> 🎨🧦</p>\n\n\n\n<p>Kids can <strong>design their own unique socks</strong> to show their support and spread awareness. After coloring, they’ll <strong>cut, fold, and glue</strong> the pieces together to complete their sock creation!</p>\n\n\n\n<p>✨ <strong>What’s Included?</strong><br>✔️ Printable sock coloring page<br>✔️ Easy cut-and-paste assembly<br>✔️ Perfect for classrooms, homeschool, or family fun!</p>\n\n\n\n<p>Let’s celebrate differences in a colorful way! 💙💛</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Get creative and celebrate World Down Syndrome Day with this fun and interactive sock coloring activity! 🎨🧦 Kids can design their own unique socks to show their support and spread&hellip;&nbsp;<a href=\"https://dsaupstate.org/?download=world-down-syndrome-day-sock-activity\" rel=\"bookmark\">Read More &raquo;<span class=\"screen-reader-text\">World Down Syndrome Day Sock Activity</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 760,
+    "template": "",
+    "edd-categories": [],
+    "edd-tags": [],
+    "class_list": [
+      "post-756",
+      "download",
+      "type-download",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "edd-download"
+    ],
+    "acf": [],
+    "mb": [],
+    "mfb_rest_fields": [
+      "title"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/756",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/download"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/756/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 762,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/edd-downloads/756/revisions/762"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/media/760"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=756"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "download_category",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-categories&post=756"
+        },
+        {
+          "taxonomy": "download_tag",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fedd-tags&post=756"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2 @@
+GET https://dsaupstate.org/index.php?rest_route=/wp/v2
+Authorization: Basic wpusername0260:4pu3 GlbO Tui6 mmVd 1Aro fsfv
