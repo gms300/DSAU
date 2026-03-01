@@ -1,0 +1,63 @@
+<item>
+    <title>new-expectant-parent-or-medical-professional-contact-request></title>
+    <recipients>info@dsaupstate.org</recipients>
+</item>
+<item>
+    <title>membership-enrollment></title>
+    <recipients>info@dsaupstate.org</recipients>
+</item>
+<item>
+    <title>volunteer-registration</title>
+    <recipients>info@dsaupstate.org, eduncan@dsaupstate.org, jturner@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[bereavement-fund-support-request]]></title>
+    <recipients>info@dsaupstate.org, bereavement@dsaupstate.org, outreach@dsaupstate.org</recipients>
+    </wp:postmeta>
+</item>
+<item>
+    <title><![CDATA[registration]]></title>
+    <recipients>info@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+</item>
+<item>
+    <title><![CDATA[family-care-fund-application]]></title>
+    <recipients>lhills@dsaupstate.org</recipients>
+    <recipients>info@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[boost-application]]></title>
+    <recipients>info@dsaupstate.org, mschroeder@dsaupstate.org, scholarships@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[contact-form]]></title>
+    <recipients>lhills@dsaupstate.org, info@dsaupstate.org</recipients>
+    <recipients>info@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[iep-scholarship-inquiry]]></title>
+    <recipients>info@dsaupstate.org, education@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[2026-board-applications]]></title>
+    <recipients>info@dsaupstate.org, e-board@dsaupstate.org</recipients>
+</item>
+<item>
+    <title><![CDATA[january-mno]]></title>
+    <recipients>gschroeder@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+    <recipients>gschroeder@dsaupstate.org, mno@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+</item>
+<item>
+    <title><![CDATA[childrens-museum]]></title>
+    <recipients>mschroeder@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+</item>
+<item>
+    <title><![CDATA[february-mno]]></title>
+    <recipients>MNO@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+    <recipients>MNO@dsaupstate.org</recipients>
+    <recipients>{email-1}</recipients>
+</item>
