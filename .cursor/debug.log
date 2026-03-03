@@ -1,0 +1,2 @@
+{"runId":"run1","location":"ExportPages.ps1:256","data":{"htmlContentLength":137040},"id":"log_1772500807810","timestamp":1772500807811,"hypothesisId":"A","message":"htmlContent before Out-File"}
+{"runId":"run1","location":"ExportPages.ps1:263","data":{"htmlContentLength":137040,"fileLength":137042},"id":"log_1772500807816","timestamp":1772500807816,"hypothesisId":"C","message":"after Out-File"}

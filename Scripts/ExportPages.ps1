@@ -108,7 +108,7 @@ $mediaImports = foreach($m in $wpMedia) {
     [PSCustomObject] @{ 
         ID = $m.id; 
         Name = $m.title.rendered;
-        FullName = if ($m.media_details.file) { $m.media_details.file } else { $m.title.rendered }; 
+        FullName = $m.media_details.file + " - " + $m.title.rendered; 
         Description = $m.caption.rendered;
         Slug = $m.slug;
         MediaURL = $m.source_url;
@@ -150,6 +150,55 @@ $pageImports = foreach ($p in $wpPages) {
             if ($mediaLookup.ContainsKey($strippedUrl)) {
                 $mediaLinks += [PSCustomObject] @{
                     MediaID = $mediaLookup[$strippedUrl]
+                    LinkType = "Page Reference"
+                    LinkID  = $p.id
+                }
+            }
+        }
+    }
+
+    # 2. Find <a href="..."> links to media (any attribute order; first regex only catches img/a with wp-image or specific order)
+    $anchorHrefRegex = '<a[^>]+href=["''](?<url>[^"'']+)["''][^>]*>'
+    $anchorMatches = [regex]::Matches($p.content.rendered, $anchorHrefRegex)
+    foreach ($match in $anchorMatches) {
+        $foundUrl = $match.Groups['url'].Value.Replace($siteUrl, "")
+        if ($mediaLookup.ContainsKey($foundUrl)) {
+            $mediaLinks += [PSCustomObject] @{
+                MediaID = $mediaLookup[$foundUrl]
+                LinkType = "Page Reference"
+                LinkID  = $p.id
+            }
+        }
+        else {
+            $baseUrl = $foundUrl -replace '\?.*$', ''
+            if ($mediaLookup.ContainsKey($baseUrl)) {
+                $mediaLinks += [PSCustomObject] @{
+                    MediaID = $mediaLookup[$baseUrl]
+                    LinkType = "Page Reference"
+                    LinkID  = $p.id
+                }
+            }
+        }
+    }
+
+    # 3. Also find <video src="..."> and <source src="..."> (videos in page content)
+    $videoSrcRegex = '<(?:video|source)[^>]+src=["''](?<url>[^"'']+)["''][^>]*>'
+    $videoMatches = [regex]::Matches($p.content.rendered, $videoSrcRegex)
+    foreach ($match in $videoMatches) {
+        $foundUrl = $match.Groups['url'].Value.Replace($siteUrl, "")
+        if ($mediaLookup.ContainsKey($foundUrl)) {
+            $mediaLinks += [PSCustomObject] @{
+                MediaID = $mediaLookup[$foundUrl]
+                LinkType = "Page Reference"
+                LinkID  = $p.id
+            }
+        }
+        else {
+            # Strip query string if present (e.g. ?ver=1)
+            $baseUrl = $foundUrl -replace '\?.*$', ''
+            if ($mediaLookup.ContainsKey($baseUrl)) {
+                $mediaLinks += [PSCustomObject] @{
+                    MediaID = $mediaLookup[$baseUrl]
                     LinkType = "Page Reference"
                     LinkID  = $p.id
                 }
@@ -243,5 +292,20 @@ if ($mediaLinks.Count -gt 0) {
     }
 }
 
+Write-Host "Generating page media tree..." -ForegroundColor Cyan
+
+$mediaTree = Invoke-Sqlcmd -ServerInstance $sqlServer `
+                        -TrustServerCertificate `
+                        -Database $database `
+                        -Query "EXEC dbo.sp_GeneratePageMediaTree" `
+                        -MaxCharLength ([int]::MaxValue)
+
+$htmlContent = if ($mediaTree -is [array] -and $mediaTree.Count -gt 0) { $mediaTree[0].RawHtmlOutput } else { $mediaTree.RawHtmlOutput }
+
+$htmlFileName = "Site Audit$(if ($isStaging) { " - Staging" }).HTML"
+$htmlPath = Join-Path (Split-Path $PSScriptRoot -Parent) $htmlFileName
+Out-File -FilePath $htmlPath -InputObject $htmlContent -Encoding utf8
+
+Write-Host "HTML report saved to $htmlPath" -ForegroundColor Cyan
 Write-Host
 Write-Host "Audit Sync Complete!" -ForegroundColor Green

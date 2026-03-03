@@ -1,0 +1,139 @@
+[
+  {
+    "Name": "New/Expectant Parent or Medical Professional Contact Request",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "Membership Enrollment",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "Volunteer Registration",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org, eduncan@dsaupstate.org, jturner@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "Bereavement Fund Support Request",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org, bereavement@dsaupstate.org, outreach@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "Registration",
+    "Emails": [
+      {
+        "Label": "Admin Email",
+        "Subject": "New User Registration on {site_url}",
+        "Recipients": "info@dsaupstate.org"
+      },
+      {
+        "Label": "User Confirmation Email",
+        "Subject": "Your new account on {site_title}",
+        "Recipients": "{email-1}"
+      }
+    ]
+  },
+  {
+    "Name": "Family Care Fund Application",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "lhills@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "BOOST Application",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org, mschroeder@dsaupstate.org, scholarships@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "Contact Form",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "lhills@dsaupstate.org, info@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "IEP scholarship Inquiry",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org, education@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "2026 Board Applications",
+    "Emails": {
+      "Label": "Admin Email",
+      "Subject": "New Form Entry #{submission_id} for {form_name}",
+      "Recipients": "info@dsaupstate.org, e-board@dsaupstate.org"
+    }
+  },
+  {
+    "Name": "January MNO",
+    "Emails": [
+      {
+        "Label": "January MNO Receipt",
+        "Subject": "January Mom's Night Out Confirmation",
+        "Recipients": "{email-1}"
+      },
+      {
+        "Label": "January MNO RSVP",
+        "Subject": "January MNO RSVP - {name-1}",
+        "Recipients": "gschroeder@dsaupstate.org"
+      }
+    ]
+  },
+  {
+    "Name": "Children's Museum",
+    "Emails": [
+      {
+        "Label": "Admin Email",
+        "Subject": "New Form Entry #{submission_id} for {form_name}",
+        "Recipients": "mschroeder@dsaupstate.org"
+      },
+      {
+        "Label": "TCMU Receipt",
+        "Subject": "Thank you for signing up for tickets to the Children's Museum of the Upstate",
+        "Recipients": "{email-1}"
+      }
+    ]
+  },
+  {
+    "Name": "February MNO",
+    "Emails": [
+      {
+        "Label": "February MNO Receipt",
+        "Subject": "February Mom's Night Out Confirmation",
+        "Recipients": "{email-1}"
+      },
+      {
+        "Label": "February MNO RSVP",
+        "Subject": "January MNO RSVP - {name-1}",
+        "Recipients": "MNO@dsaupstate.org"
+      },
+      {
+        "Label": "January MNO Receipt",
+        "Subject": "February Mom's Night Out Confirmation",
+        "Recipients": "{email-1}"
+      }
+    ]
+  }
+]

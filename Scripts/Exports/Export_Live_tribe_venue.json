@@ -1,5 +1,119 @@
 [
   {
+    "id": 3012,
+    "date": "2026-03-02T22:39:28",
+    "date_gmt": "2026-03-03T03:39:28",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?tribe_venue=discovery-island"
+    },
+    "modified": "2026-03-02T22:39:28",
+    "modified_gmt": "2026-03-03T03:39:28",
+    "slug": "discovery-island",
+    "status": "publish",
+    "type": "tribe_venue",
+    "link": "https://dsaupstate.org/?tribe_venue=discovery-island",
+    "title": {
+      "rendered": "Discovery Island"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_venue/3012",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_venue"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_venue"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_venue/3012/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=3012"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
     "id": 2990,
     "date": "2026-02-09T19:28:47",
     "date_gmt": "2026-02-10T00:28:47",

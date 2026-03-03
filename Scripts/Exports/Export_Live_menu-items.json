@@ -314,18 +314,18 @@
     }
   },
   {
-    "id": 25,
+    "id": 3007,
     "title": {
-      "rendered": "Membership Center"
+      "rendered": "Financial Information"
     },
     "status": "publish",
-    "url": "https://dsaupstate.org/?page_id=19",
+    "url": "https://dsaupstate.org/?page_id=3001",
     "attr_title": "",
     "description": "",
     "type": "post_type",
     "type_label": "Page",
     "object": "page",
-    "object_id": 19,
+    "object_id": 3001,
     "parent": 462,
     "menu_order": 4,
     "target": "",
@@ -375,7 +375,7 @@
     "_links": {
       "self": [
         {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/25",
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/3007",
           "targetHints": {
             "allow": [
               "GET",
@@ -401,121 +401,14 @@
         {
           "taxonomy": "nav_menu",
           "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=25"
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=3007"
         }
       ],
       "wp:menu-item-object": [
         {
           "post_type": "page",
           "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/19"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 73,
-    "title": {
-      "rendered": "Financial Information"
-    },
-    "status": "publish",
-    "url": "https://dsaupstate.org/?page_id=71",
-    "attr_title": "",
-    "description": "",
-    "type": "post_type",
-    "type_label": "Page",
-    "object": "page",
-    "object_id": 71,
-    "parent": 462,
-    "menu_order": 5,
-    "target": "",
-    "classes": [
-      ""
-    ],
-    "xfn": [
-      ""
-    ],
-    "invalid": false,
-    "meta": {
-      "_acf_changed": false,
-      "_coblocks_attr": "",
-      "_coblocks_dimensions": "",
-      "_coblocks_responsive_height": "",
-      "_coblocks_accordion_ie_support": "",
-      "neve_meta_sidebar": "",
-      "neve_meta_container": "",
-      "neve_meta_enable_content_width": "",
-      "neve_meta_content_width": 0,
-      "neve_meta_title_alignment": "",
-      "neve_meta_author_avatar": "",
-      "neve_post_elements_order": "",
-      "neve_meta_disable_header": "",
-      "neve_meta_disable_footer": "",
-      "neve_meta_disable_title": "",
-      "_price": "",
-      "_stock": "",
-      "_tribe_ticket_header": "",
-      "_tribe_default_ticket_provider": "",
-      "_ticket_start_date": "",
-      "_ticket_end_date": "",
-      "_tribe_ticket_show_description": "",
-      "_tribe_ticket_show_not_going": false,
-      "_tribe_ticket_use_global_stock": "",
-      "_tribe_ticket_global_stock_level": "",
-      "_global_stock_mode": "",
-      "_global_stock_cap": "",
-      "_tribe_rsvp_for_event": "",
-      "_tribe_ticket_going_count": "",
-      "_tribe_ticket_not_going_count": "",
-      "_tribe_tickets_list": "[]",
-      "_tribe_ticket_has_attendee_info_fields": false
-    },
-    "menus": 2,
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/73",
-          "targetHints": {
-            "allow": [
-              "GET",
-              "POST",
-              "PUT",
-              "PATCH",
-              "DELETE"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/nav_menu_item"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "nav_menu",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=73"
-        }
-      ],
-      "wp:menu-item-object": [
-        {
-          "post_type": "page",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/71"
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/3001"
         }
       ],
       "curies": [
@@ -541,7 +434,7 @@
     "object": "page",
     "object_id": 69,
     "parent": 462,
-    "menu_order": 6,
+    "menu_order": 5,
     "target": "",
     "classes": [
       ""
@@ -648,7 +541,7 @@
     "object": "page",
     "object_id": 1369,
     "parent": 462,
-    "menu_order": 7,
+    "menu_order": 6,
     "target": "",
     "classes": [
       ""
@@ -730,6 +623,113 @@
           "post_type": "page",
           "embeddable": true,
           "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/1369"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "title": {
+      "rendered": "Membership Center"
+    },
+    "status": "publish",
+    "url": "https://dsaupstate.org/?page_id=19",
+    "attr_title": "",
+    "description": "",
+    "type": "post_type",
+    "type_label": "Page",
+    "object": "page",
+    "object_id": 19,
+    "parent": 0,
+    "menu_order": 7,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false
+    },
+    "menus": 2,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/25",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=25"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "post_type": "page",
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/19"
         }
       ],
       "curies": [
@@ -1056,113 +1056,6 @@
     }
   },
   {
-    "id": 329,
-    "title": {
-      "rendered": "2025 Community Survey"
-    },
-    "status": "publish",
-    "url": "https://dsaupstate.org/?page_id=327",
-    "attr_title": "",
-    "description": "",
-    "type": "post_type",
-    "type_label": "Page",
-    "object": "page",
-    "object_id": 327,
-    "parent": 431,
-    "menu_order": 11,
-    "target": "",
-    "classes": [
-      ""
-    ],
-    "xfn": [
-      ""
-    ],
-    "invalid": false,
-    "meta": {
-      "_acf_changed": false,
-      "_coblocks_attr": "",
-      "_coblocks_dimensions": "",
-      "_coblocks_responsive_height": "",
-      "_coblocks_accordion_ie_support": "",
-      "neve_meta_sidebar": "",
-      "neve_meta_container": "",
-      "neve_meta_enable_content_width": "",
-      "neve_meta_content_width": 0,
-      "neve_meta_title_alignment": "",
-      "neve_meta_author_avatar": "",
-      "neve_post_elements_order": "",
-      "neve_meta_disable_header": "",
-      "neve_meta_disable_footer": "",
-      "neve_meta_disable_title": "",
-      "_price": "",
-      "_stock": "",
-      "_tribe_ticket_header": "",
-      "_tribe_default_ticket_provider": "",
-      "_ticket_start_date": "",
-      "_ticket_end_date": "",
-      "_tribe_ticket_show_description": "",
-      "_tribe_ticket_show_not_going": false,
-      "_tribe_ticket_use_global_stock": "",
-      "_tribe_ticket_global_stock_level": "",
-      "_global_stock_mode": "",
-      "_global_stock_cap": "",
-      "_tribe_rsvp_for_event": "",
-      "_tribe_ticket_going_count": "",
-      "_tribe_ticket_not_going_count": "",
-      "_tribe_tickets_list": "[]",
-      "_tribe_ticket_has_attendee_info_fields": false
-    },
-    "menus": 2,
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/329",
-          "targetHints": {
-            "allow": [
-              "GET",
-              "POST",
-              "PUT",
-              "PATCH",
-              "DELETE"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/nav_menu_item"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "nav_menu",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=329"
-        }
-      ],
-      "wp:menu-item-object": [
-        {
-          "post_type": "page",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/327"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
     "id": 131,
     "title": {
       "rendered": "Family Care Fund"
@@ -1176,7 +1069,7 @@
     "object": "page",
     "object_id": 117,
     "parent": 431,
-    "menu_order": 12,
+    "menu_order": 11,
     "target": "",
     "classes": [
       ""
@@ -1283,7 +1176,7 @@
     "object": "page",
     "object_id": 1273,
     "parent": 431,
-    "menu_order": 13,
+    "menu_order": 12,
     "target": "",
     "classes": [
       ""
@@ -1390,7 +1283,7 @@
     "object": "page",
     "object_id": 115,
     "parent": 431,
-    "menu_order": 14,
+    "menu_order": 13,
     "target": "",
     "classes": [
       ""
@@ -1497,7 +1390,7 @@
     "object": "page",
     "object_id": 1985,
     "parent": 431,
-    "menu_order": 15,
+    "menu_order": 14,
     "target": "",
     "classes": [
       ""
@@ -1604,7 +1497,7 @@
     "object": "custom",
     "object_id": 183,
     "parent": 0,
-    "menu_order": 16,
+    "menu_order": 15,
     "target": "",
     "classes": [
       ""
@@ -1704,7 +1597,7 @@
     "object": "page",
     "object_id": 81,
     "parent": 183,
-    "menu_order": 17,
+    "menu_order": 16,
     "target": "",
     "classes": [
       ""
@@ -1811,7 +1704,7 @@
     "object": "page",
     "object_id": 2274,
     "parent": 183,
-    "menu_order": 18,
+    "menu_order": 17,
     "target": "",
     "classes": [
       ""
@@ -1918,7 +1811,7 @@
     "object": "page",
     "object_id": 83,
     "parent": 183,
-    "menu_order": 19,
+    "menu_order": 18,
     "target": "",
     "classes": [
       ""
@@ -2025,7 +1918,7 @@
     "object": "page",
     "object_id": 85,
     "parent": 183,
-    "menu_order": 20,
+    "menu_order": 19,
     "target": "",
     "classes": [
       ""
@@ -2132,7 +2025,7 @@
     "object": "page",
     "object_id": 75,
     "parent": 183,
-    "menu_order": 21,
+    "menu_order": 20,
     "target": "",
     "classes": [
       ""
@@ -2239,7 +2132,7 @@
     "object": "page",
     "object_id": 2008,
     "parent": 95,
-    "menu_order": 22,
+    "menu_order": 21,
     "target": "",
     "classes": [
       ""
@@ -2346,7 +2239,7 @@
     "object": "page",
     "object_id": 527,
     "parent": 95,
-    "menu_order": 23,
+    "menu_order": 22,
     "target": "",
     "classes": [
       ""
@@ -2453,7 +2346,7 @@
     "object": "page",
     "object_id": 556,
     "parent": 95,
-    "menu_order": 24,
+    "menu_order": 23,
     "target": "",
     "classes": [
       ""
@@ -2560,7 +2453,7 @@
     "object": "page",
     "object_id": 559,
     "parent": 95,
-    "menu_order": 25,
+    "menu_order": 24,
     "target": "",
     "classes": [
       ""
@@ -2667,7 +2560,7 @@
     "object": "page",
     "object_id": 475,
     "parent": 183,
-    "menu_order": 26,
+    "menu_order": 25,
     "target": "",
     "classes": [
       ""
@@ -2774,7 +2667,7 @@
     "object": "page",
     "object_id": 540,
     "parent": 183,
-    "menu_order": 27,
+    "menu_order": 26,
     "target": "",
     "classes": [
       ""
@@ -2881,7 +2774,7 @@
     "object": "custom",
     "object_id": 182,
     "parent": 0,
-    "menu_order": 28,
+    "menu_order": 27,
     "target": "",
     "classes": [
       ""
@@ -2981,7 +2874,7 @@
     "object": "page",
     "object_id": 106,
     "parent": 182,
-    "menu_order": 29,
+    "menu_order": 28,
     "target": "",
     "classes": [
       ""
@@ -3088,7 +2981,7 @@
     "object": "page",
     "object_id": 108,
     "parent": 182,
-    "menu_order": 30,
+    "menu_order": 29,
     "target": "",
     "classes": [
       ""
@@ -3195,7 +3088,7 @@
     "object": "page",
     "object_id": 237,
     "parent": 182,
-    "menu_order": 31,
+    "menu_order": 30,
     "target": "",
     "classes": [
       ""
@@ -3289,113 +3182,6 @@
     }
   },
   {
-    "id": 1823,
-    "title": {
-      "rendered": "2025 Buddy Walk Fund-casters"
-    },
-    "status": "publish",
-    "url": "https://dsaupstate.org/?page_id=1813",
-    "attr_title": "",
-    "description": "",
-    "type": "post_type",
-    "type_label": "Page",
-    "object": "page",
-    "object_id": 1813,
-    "parent": 0,
-    "menu_order": 32,
-    "target": "",
-    "classes": [
-      ""
-    ],
-    "xfn": [
-      ""
-    ],
-    "invalid": false,
-    "meta": {
-      "_acf_changed": false,
-      "_coblocks_attr": "",
-      "_coblocks_dimensions": "",
-      "_coblocks_responsive_height": "",
-      "_coblocks_accordion_ie_support": "",
-      "neve_meta_sidebar": "",
-      "neve_meta_container": "",
-      "neve_meta_enable_content_width": "",
-      "neve_meta_content_width": 0,
-      "neve_meta_title_alignment": "",
-      "neve_meta_author_avatar": "",
-      "neve_post_elements_order": "",
-      "neve_meta_disable_header": "",
-      "neve_meta_disable_footer": "",
-      "neve_meta_disable_title": "",
-      "_price": "",
-      "_stock": "",
-      "_tribe_ticket_header": "",
-      "_tribe_default_ticket_provider": "",
-      "_ticket_start_date": "",
-      "_ticket_end_date": "",
-      "_tribe_ticket_show_description": "",
-      "_tribe_ticket_show_not_going": false,
-      "_tribe_ticket_use_global_stock": "",
-      "_tribe_ticket_global_stock_level": "",
-      "_global_stock_mode": "",
-      "_global_stock_cap": "",
-      "_tribe_rsvp_for_event": "",
-      "_tribe_ticket_going_count": "",
-      "_tribe_ticket_not_going_count": "",
-      "_tribe_tickets_list": "[]",
-      "_tribe_ticket_has_attendee_info_fields": false
-    },
-    "menus": 2,
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/1823",
-          "targetHints": {
-            "allow": [
-              "GET",
-              "POST",
-              "PUT",
-              "PATCH",
-              "DELETE"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/nav_menu_item"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "nav_menu",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=1823"
-        }
-      ],
-      "wp:menu-item-object": [
-        {
-          "post_type": "page",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/1813"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
     "id": 962,
     "title": {
       "rendered": "Partners in Advocacy"
@@ -3409,7 +3195,7 @@
     "object": "page",
     "object_id": 957,
     "parent": 0,
-    "menu_order": 33,
+    "menu_order": 31,
     "target": "",
     "classes": [
       ""
@@ -3491,113 +3277,6 @@
           "post_type": "page",
           "embeddable": true,
           "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/957"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 26,
-    "title": {
-      "rendered": "Newsletter"
-    },
-    "status": "publish",
-    "url": "https://dsaupstate.org/?page_id=17",
-    "attr_title": "",
-    "description": "",
-    "type": "post_type",
-    "type_label": "Page",
-    "object": "page",
-    "object_id": 17,
-    "parent": 0,
-    "menu_order": 34,
-    "target": "",
-    "classes": [
-      ""
-    ],
-    "xfn": [
-      ""
-    ],
-    "invalid": false,
-    "meta": {
-      "_acf_changed": false,
-      "_coblocks_attr": "",
-      "_coblocks_dimensions": "",
-      "_coblocks_responsive_height": "",
-      "_coblocks_accordion_ie_support": "",
-      "neve_meta_sidebar": "",
-      "neve_meta_container": "",
-      "neve_meta_enable_content_width": "",
-      "neve_meta_content_width": 0,
-      "neve_meta_title_alignment": "",
-      "neve_meta_author_avatar": "",
-      "neve_post_elements_order": "",
-      "neve_meta_disable_header": "",
-      "neve_meta_disable_footer": "",
-      "neve_meta_disable_title": "",
-      "_price": "",
-      "_stock": "",
-      "_tribe_ticket_header": "",
-      "_tribe_default_ticket_provider": "",
-      "_ticket_start_date": "",
-      "_ticket_end_date": "",
-      "_tribe_ticket_show_description": "",
-      "_tribe_ticket_show_not_going": false,
-      "_tribe_ticket_use_global_stock": "",
-      "_tribe_ticket_global_stock_level": "",
-      "_global_stock_mode": "",
-      "_global_stock_cap": "",
-      "_tribe_rsvp_for_event": "",
-      "_tribe_ticket_going_count": "",
-      "_tribe_ticket_not_going_count": "",
-      "_tribe_tickets_list": "[]",
-      "_tribe_ticket_has_attendee_info_fields": false
-    },
-    "menus": 2,
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items/26",
-          "targetHints": {
-            "allow": [
-              "GET",
-              "POST",
-              "PUT",
-              "PATCH",
-              "DELETE"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/menu-items"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/nav_menu_item"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "nav_menu",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmenus&post=26"
-        }
-      ],
-      "wp:menu-item-object": [
-        {
-          "post_type": "page",
-          "embeddable": true,
-          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/pages/17"
         }
       ],
       "curies": [
