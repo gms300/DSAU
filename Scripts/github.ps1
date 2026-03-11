@@ -1,7 +1,35 @@
 param(
     [switch] $pull,
-    [switch] $push
+    [switch] $push,
+    [string] $GitHubUser
 )
+
+function GetDefaultGitHubUser {
+    if ($env:GITHUB_USER) { 
+        return $env:GITHUB_USER
+    }
+    $url = git remote get-url origin 2>$null
+    if ($url -match 'github\.com[/:]([^/]+)/') { return $Matches[1] }
+    return $null
+}
+
+function EnsureRemoteUsesGitHubUser {
+    $user = if ($GitHubUser) {
+        $GitHubUser
+    } else {
+        GetDefaultGitHubUser
+    }
+
+    if (-not $user) { return }
+    $url = git remote get-url origin
+    if ($url -match '^https://(?:[^@]+@)?github\.com/(.+)$') {
+        $path = $Matches[1]
+        $newUrl = "https://${user}@github.com/$path"
+        if ($url -ne $newUrl) {
+            git remote set-url origin $newUrl
+        }
+    }
+}
 
 function PullFromGithub {
     $HasLocalChanges = git status --short
@@ -43,6 +71,8 @@ function PushToGithub {
         git push
     }
 }
+
+EnsureRemoteUsesGitHubUser
 
 if ($pull) {
     PullFromGithub
