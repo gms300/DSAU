@@ -20,9 +20,15 @@ function GetDefaultGitHubUser {
 }
 
 function EnsureRemoteUsesGitHubUser {
+    Write-Host "Ensuring remote uses GitHub User" -ForegroundColor Yellow
     $user = GetDefaultGitHubUser
 
-    if (-not $user) { return }
+    if (-not $user) { 
+        Write-Host "No GitHub User found" -ForegroundColor Red
+        return
+    }
+    
+    Write-Host "GitHub User found $user" -ForegroundColor Yellow
     $url = git remote get-url origin
     if ($url -match '^https://(?:[^@]+@)?github\.com/(.+)$') {
         $path = $Matches[1]
