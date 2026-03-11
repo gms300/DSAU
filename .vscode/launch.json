@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Export Pages",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/ExportPages.ps1",
+            "args": []
+        },
+        {
+            "name": "Export Pages - Staging",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/ExportPages.ps1",
+            "args": [
+                "-isStaging"            
+            ]
+        },       
+        {
+            "name": "Update Media Titles",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/UpdateMediaTitles.ps1",
+            "args": []
+        },
+        {
+            "name": "Update Media Titles - Staging",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/UpdateMediaTitles.ps1",
+            "args": [
+                "-IsStaging"
+            ]
+        },
+        {
+            "name": "Push to Github",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/github.ps1",
+            "args": [
+                "-push"
+            ]
+        },
+        {
+            "name": "Pull from Github",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "Scripts/github.ps1",
+            "args": [
+                "-pull"
+            ]
+        }
+    ]
+}

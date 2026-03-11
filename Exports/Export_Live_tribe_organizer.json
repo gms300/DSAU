@@ -1,0 +1,944 @@
+[
+  {
+    "id": 2943,
+    "date": "2026-01-27T21:37:33",
+    "date_gmt": "2026-01-28T02:37:33",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?tribe_organizer=marianne-schroeder"
+    },
+    "modified": "2026-01-27T21:37:33",
+    "modified_gmt": "2026-01-28T02:37:33",
+    "slug": "marianne-schroeder",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=marianne-schroeder",
+    "title": {
+      "rendered": "Marianne Schroeder"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/2943",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/2943/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2943"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1469,
+    "date": "2025-04-16T21:49:41",
+    "date_gmt": "2025-04-17T01:49:41",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/testing/"
+    },
+    "modified": "2025-04-16T21:49:41",
+    "modified_gmt": "2025-04-17T01:49:41",
+    "slug": "testing",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=testing",
+    "title": {
+      "rendered": "testing"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/1469",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/1469/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1469"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1045,
+    "date": "2025-03-09T03:17:01",
+    "date_gmt": "2025-03-09T03:17:01",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/dsau-dava-young-adults/"
+    },
+    "modified": "2025-04-16T16:37:34",
+    "modified_gmt": "2025-04-16T20:37:34",
+    "slug": "dsau-dava-young-adults",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=dsau-dava-young-adults",
+    "title": {
+      "rendered": "Dava- Young Adults"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/1045",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/1045/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1419,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/1045/revisions/1419"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1045"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 977,
+    "date": "2025-03-07T19:05:50",
+    "date_gmt": "2025-03-07T19:05:50",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/anne-radue-2/"
+    },
+    "modified": "2025-04-16T16:36:33",
+    "modified_gmt": "2025-04-16T20:36:33",
+    "slug": "anne-radue-2",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=anne-radue-2",
+    "title": {
+      "rendered": "Anne Radue"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/977",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/977/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1416,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/977/revisions/1416"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=977"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 739,
+    "date": "2025-02-18T14:44:59",
+    "date_gmt": "2025-02-18T14:44:59",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/stacey-scott/"
+    },
+    "modified": "2025-04-16T16:38:03",
+    "modified_gmt": "2025-04-16T20:38:03",
+    "slug": "stacey-scott",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=stacey-scott",
+    "title": {
+      "rendered": "Stacey Scott"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/739",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/739/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1420,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/739/revisions/1420"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=739"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 738,
+    "date": "2025-02-18T14:44:01",
+    "date_gmt": "2025-02-18T14:44:01",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/laurin-hills/"
+    },
+    "modified": "2025-02-18T14:44:01",
+    "modified_gmt": "2025-02-18T14:44:01",
+    "slug": "laurin-hills",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=laurin-hills",
+    "title": {
+      "rendered": "Laurin Hills"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/738",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/738/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=738"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 736,
+    "date": "2025-02-18T14:43:08",
+    "date_gmt": "2025-02-18T14:43:08",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/gini-nichols/"
+    },
+    "modified": "2025-05-06T23:20:55",
+    "modified_gmt": "2025-05-07T03:20:55",
+    "slug": "gini-nichols",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=gini-nichols",
+    "title": {
+      "rendered": "Gini Nichols- MNO"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/736",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/736/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1421,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/736/revisions/1421"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=736"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 260,
+    "date": "2025-01-31T03:23:48",
+    "date_gmt": "2025-01-31T03:23:48",
+    "guid": {
+      "rendered": "https://dsaupstate.org/organizer/down-syndrome-association-of-the-upstate-2/"
+    },
+    "modified": "2025-02-28T02:30:56",
+    "modified_gmt": "2025-02-28T02:30:56",
+    "slug": "down-syndrome-association-of-the-upstate-2",
+    "status": "publish",
+    "type": "tribe_organizer",
+    "link": "https://dsaupstate.org/?tribe_organizer=down-syndrome-association-of-the-upstate-2",
+    "title": {
+      "rendered": "Down Syndrome Association of the Upstate"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "",
+      "_ticket_end_date": "",
+      "_tribe_ticket_show_description": "",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/260",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_organizer"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/260/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 891,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_organizer/260/revisions/891"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=260"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

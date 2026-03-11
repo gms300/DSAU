@@ -1,0 +1,2507 @@
+[
+  {
+    "id": 2606,
+    "date": "2025-10-24T19:48:08",
+    "date_gmt": "2025-10-24T23:48:08",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2606"
+    },
+    "modified": "2025-10-24T19:48:08",
+    "modified_gmt": "2025-10-24T23:48:08",
+    "slug": "annual-christmas-party",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2606",
+    "title": {
+      "rendered": "Annual Christmas Party"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-10-24 00:00:00",
+      "_ticket_end_date": "2025-11-30 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2409",
+      "_tribe_ticket_going_count": "42",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2606",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2606/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2606"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2587,
+    "date": "2025-10-14T19:35:43",
+    "date_gmt": "2025-10-14T23:35:43",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2587"
+    },
+    "modified": "2025-10-14T19:35:43",
+    "modified_gmt": "2025-10-14T23:35:43",
+    "slug": "dinner-at-kitchen-sync",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2587",
+    "title": {
+      "rendered": "Dinner at Kitchen Sync"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "6",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-10-14 00:00:00",
+      "_ticket_end_date": "2025-11-19 17:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2407",
+      "_tribe_ticket_going_count": "9",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2587",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2587/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2587"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2585,
+    "date": "2025-10-14T19:34:28",
+    "date_gmt": "2025-10-14T23:34:28",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2585"
+    },
+    "modified": "2025-10-14T19:34:28",
+    "modified_gmt": "2025-10-14T23:34:28",
+    "slug": "music-bingo-at-city-market-at-bridgeway-station",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2585",
+    "title": {
+      "rendered": "Music Bingo at City Market at Bridgeway Station"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-10-14 00:00:00",
+      "_ticket_end_date": "2025-10-20 17:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2405",
+      "_tribe_ticket_going_count": "5",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2585",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2585/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2585"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2201,
+    "date": "2025-08-21T14:21:02",
+    "date_gmt": "2025-08-21T18:21:02",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=2201"
+    },
+    "modified": "2025-09-03T08:48:55",
+    "modified_gmt": "2025-09-03T12:48:55",
+    "slug": "captains-dinner",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2201",
+    "title": {
+      "rendered": "Captain&#039;s Dinner"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Thursdsay, September 4, 2025<br />\nfrom 6pm to 9pm</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "34",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-08-22 00:00:00",
+      "_ticket_end_date": "2025-09-03 08:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2200",
+      "_tribe_ticket_going_count": "16",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2201",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2201/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2202,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2201/revisions/2202"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2201"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2034,
+    "date": "2025-08-01T11:33:58",
+    "date_gmt": "2025-08-01T15:33:58",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=2034"
+    },
+    "modified": "2025-08-01T11:34:49",
+    "modified_gmt": "2025-08-01T15:34:49",
+    "slug": "mno-pot-painting-plant-swap",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2034",
+    "title": {
+      "rendered": "MNO- Pot painting &amp; plant swap"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "6",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-08-01 18:30:00",
+      "_ticket_end_date": "2025-08-19 22:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2033",
+      "_tribe_ticket_going_count": "9",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2034",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2034/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2035,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2034/revisions/2035"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2034"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2003,
+    "date": "2025-07-31T19:07:20",
+    "date_gmt": "2025-07-31T23:07:20",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=2003"
+    },
+    "modified": "2025-07-31T19:07:58",
+    "modified_gmt": "2025-07-31T23:07:58",
+    "slug": "townhall",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=2003",
+    "title": {
+      "rendered": "Townhall"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-07-31 18:00:00",
+      "_ticket_end_date": "2025-08-25 17:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "2002",
+      "_tribe_ticket_going_count": "6",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2003",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2003/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2004,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/2003/revisions/2004"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2003"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1588,
+    "date": "2025-06-06T13:55:54",
+    "date_gmt": "2025-06-06T17:55:54",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=1588"
+    },
+    "modified": "2025-06-30T11:20:31",
+    "modified_gmt": "2025-06-30T15:20:31",
+    "slug": "water-park-event",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1588",
+    "title": {
+      "rendered": "Water Park Event"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Saturday, July 19<br />\nTime: 5:45 pm &#8211; 7:45 pm<br />\n(water park closed to general public)<br />\nConcession Stand will be open for snack purchases by families </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-06-06 00:00:00",
+      "_ticket_end_date": "2025-07-18 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1586",
+      "_tribe_ticket_going_count": "220",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1588",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1588/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1765,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1588/revisions/1765"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1588"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1557,
+    "date": "2025-05-16T11:59:58",
+    "date_gmt": "2025-05-16T15:59:58",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1557"
+    },
+    "modified": "2025-05-16T11:59:58",
+    "modified_gmt": "2025-05-16T15:59:58",
+    "slug": "tweens-bye-bye-school",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1557",
+    "title": {
+      "rendered": "Tweens-Bye Bye School"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-05-16 00:00:00",
+      "_ticket_end_date": "2025-05-22 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1555",
+      "_tribe_ticket_going_count": "10",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1557",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1557/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1557"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1537,
+    "date": "2025-05-06T23:38:09",
+    "date_gmt": "2025-05-07T03:38:09",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1537"
+    },
+    "modified": "2025-05-06T23:38:09",
+    "modified_gmt": "2025-05-07T03:38:09",
+    "slug": "young-adults-house-party",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1537",
+    "title": {
+      "rendered": "Young Adults- House Party"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-05-06 00:00:00",
+      "_ticket_end_date": "2025-06-25 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1536",
+      "_tribe_ticket_going_count": "7",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1537",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1537/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1537"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1532,
+    "date": "2025-05-06T23:34:01",
+    "date_gmt": "2025-05-07T03:34:01",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1532"
+    },
+    "modified": "2025-05-06T23:34:01",
+    "modified_gmt": "2025-05-07T03:34:01",
+    "slug": "young-adults-pool-party",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1532",
+    "title": {
+      "rendered": "Young Adults- Pool Party"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-05-06 00:00:00",
+      "_ticket_end_date": "2025-05-28 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1531",
+      "_tribe_ticket_going_count": "0",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1532",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1532/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1532"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1529,
+    "date": "2025-05-06T23:32:33",
+    "date_gmt": "2025-05-07T03:32:33",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1529"
+    },
+    "modified": "2025-05-06T23:32:33",
+    "modified_gmt": "2025-05-07T03:32:33",
+    "slug": "young-adults-greek-festival",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1529",
+    "title": {
+      "rendered": "Young Adults- Greek Festival"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-05-06 00:00:00",
+      "_ticket_end_date": "2025-05-10 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1528",
+      "_tribe_ticket_going_count": "0",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1529",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1529/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1529"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1524,
+    "date": "2025-05-06T23:27:22",
+    "date_gmt": "2025-05-07T03:27:22",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1524"
+    },
+    "modified": "2025-05-06T23:27:22",
+    "modified_gmt": "2025-05-07T03:27:22",
+    "slug": "mno-dinner-at-chuys",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1524",
+    "title": {
+      "rendered": "MNO- Dinner at Chuy&#039;s"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-07-01 00:00:00",
+      "_ticket_end_date": "2025-07-18 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1523",
+      "_tribe_ticket_going_count": "8",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1524",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1524/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1524"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1516,
+    "date": "2025-05-06T23:19:08",
+    "date_gmt": "2025-05-07T03:19:08",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1516"
+    },
+    "modified": "2025-05-06T23:19:08",
+    "modified_gmt": "2025-05-07T03:19:08",
+    "slug": "mno-dinner-at-kouzina",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1516",
+    "title": {
+      "rendered": "MNO- Dinner at Kouzina"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-05-07 00:00:00",
+      "_ticket_end_date": "2025-05-18 23:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1515",
+      "_tribe_ticket_going_count": "9",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1516",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1516/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1516"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1052,
+    "date": "2025-03-09T03:24:30",
+    "date_gmt": "2025-03-09T03:24:30",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=1052"
+    },
+    "modified": "2025-03-09T03:27:08",
+    "modified_gmt": "2025-03-09T03:27:08",
+    "slug": "rsvp-4",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=1052",
+    "title": {
+      "rendered": "RSVP"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>RSVP and send ticket cost to John Paguntalan via venmo @john-paguntalan by 3/21/25 to attend. There are limited tickets available. Tickets cost $15.</p>\n<p>After party to take place at Tim&#8217;s house following the performance!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "15",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-03-09 00:00:00",
+      "_ticket_end_date": "2025-03-21 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "1048",
+      "_tribe_ticket_going_count": "0",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1052",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1052/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1053,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/1052/revisions/1053"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=1052"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 830,
+    "date": "2025-02-20T14:48:22",
+    "date_gmt": "2025-02-20T14:48:22",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=830"
+    },
+    "modified": "2025-02-20T14:48:22",
+    "modified_gmt": "2025-02-20T14:48:22",
+    "slug": "rsvp-3",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=830",
+    "title": {
+      "rendered": "RSVP"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>To help us get an idea of attendance, please let us know if you plan to join us! While this event is for our families, SkyZone will also be open to the public during our jump time—so bring your friends and family to make an even BIGGER impact!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-02-20 00:00:00",
+      "_ticket_end_date": "2025-04-18 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "828",
+      "_tribe_ticket_going_count": "14",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/830",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/830/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=830"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 734,
+    "date": "2025-02-18T14:42:53",
+    "date_gmt": "2025-02-18T14:42:53",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=734"
+    },
+    "modified": "2025-02-18T14:42:53",
+    "modified_gmt": "2025-02-18T14:42:53",
+    "slug": "help-us-have-an-accurate-headcount",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=734",
+    "title": {
+      "rendered": "Help us have an accurate headcount!"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>RSVP so we can reserve our seating!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "0",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-02-18 00:00:00",
+      "_ticket_end_date": "2025-02-21 15:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "733",
+      "_tribe_ticket_going_count": "2",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/734",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/734/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=734"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 729,
+    "date": "2025-02-18T14:37:33",
+    "date_gmt": "2025-02-18T14:37:33",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=729"
+    },
+    "modified": "2025-02-18T14:37:33",
+    "modified_gmt": "2025-02-18T14:37:33",
+    "slug": "rsvp-2",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=729",
+    "title": {
+      "rendered": "RSVP"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Please RSVP as space is limited in the office. </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-02-18 00:00:00",
+      "_ticket_end_date": "2025-02-21 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "726",
+      "_tribe_ticket_going_count": "0",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/729",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/729/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=729"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 725,
+    "date": "2025-02-18T14:32:21",
+    "date_gmt": "2025-02-18T14:32:21",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=725"
+    },
+    "modified": "2025-02-18T14:32:21",
+    "modified_gmt": "2025-02-18T14:32:21",
+    "slug": "rsvp",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=725",
+    "title": {
+      "rendered": "RSVP"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Space is limited to a max of 25 in attendance. Children are welcome! Keep in mind that it is an office setting so bring along an activity to keep them entertained!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "25",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-02-18 00:00:00",
+      "_ticket_end_date": "2025-04-13 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "721",
+      "_tribe_ticket_going_count": "",
+      "_tribe_ticket_not_going_count": "",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/725",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/725/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=725"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 720,
+    "date": "2025-02-18T14:29:00",
+    "date_gmt": "2025-02-18T14:29:00",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=720"
+    },
+    "modified": "2025-02-18T14:31:46",
+    "modified_gmt": "2025-02-18T14:31:46",
+    "slug": "rsvp-to-attend",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=720",
+    "title": {
+      "rendered": "RSVP to attend"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Space is limited to a max of 25 in attendance. Children are welcome! Keep in mind that it is an office setting so bring along an activity to keep them entertained!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "23",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-02-18 00:00:00",
+      "_ticket_end_date": "2025-03-14 18:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "714",
+      "_tribe_ticket_going_count": "2",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/720",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/720/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 724,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/720/revisions/724"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=720"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "date": "2025-01-31T06:13:26",
+    "date_gmt": "2025-01-31T06:13:26",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=286"
+    },
+    "modified": "2025-02-17T18:00:18",
+    "modified_gmt": "2025-02-17T18:00:18",
+    "slug": "wdsd-at-spare-time",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=286",
+    "title": {
+      "rendered": "WDSD at Spare Time"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>RSVP for the World Down Syndrome Day Event at Spare Time.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "140",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-01-31 00:00:00",
+      "_ticket_end_date": "2025-03-29 10:30:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "277",
+      "_tribe_ticket_going_count": "160",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/286",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/286/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 581,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/286/revisions/581"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=286"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "date": "2025-01-31T06:11:27",
+    "date_gmt": "2025-01-31T06:11:27",
+    "guid": {
+      "rendered": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&#038;p=285"
+    },
+    "modified": "2025-03-13T20:01:29",
+    "modified_gmt": "2025-03-13T20:01:29",
+    "slug": "lets-get-inked-moms-night-out",
+    "status": "publish",
+    "type": "tribe_rsvp_tickets",
+    "link": "https://dsaupstate.org/?post_type=tribe_rsvp_tickets&p=285",
+    "title": {
+      "rendered": "Let&#039;s Get INKED! Mom&#039;s Night Out"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>RSVP to book your tattoo time. There is limited space within the shop and only one artist is working with the moms.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_coblocks_attr": "",
+      "_coblocks_dimensions": "",
+      "_coblocks_responsive_height": "",
+      "_coblocks_accordion_ie_support": "",
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "",
+      "_price": "0",
+      "_stock": "11",
+      "_tribe_ticket_header": "",
+      "_tribe_default_ticket_provider": "",
+      "_ticket_start_date": "2025-01-31 00:00:00",
+      "_ticket_end_date": "2025-03-19 00:00:00",
+      "_tribe_ticket_show_description": "yes",
+      "_tribe_ticket_show_not_going": false,
+      "_tribe_ticket_use_global_stock": "",
+      "_tribe_ticket_global_stock_level": "",
+      "_global_stock_mode": "",
+      "_global_stock_cap": "",
+      "_tribe_rsvp_for_event": "267",
+      "_tribe_ticket_going_count": "4",
+      "_tribe_ticket_not_going_count": "0",
+      "_tribe_tickets_list": "[]",
+      "_tribe_ticket_has_attendee_info_fields": false,
+      "footnotes": "",
+      "_tec_slr_enabled": "",
+      "_tec_slr_layout": ""
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/285",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/types/tribe_rsvp_tickets"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/users/1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/285/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 287,
+          "href": "https://dsaupstate.org/index.php?rest_route=/wp/v2/tribe_rsvp_tickets/285/revisions/287"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dsaupstate.org/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=285"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
