@@ -1,6 +1,0 @@
-SSH Command
- ssh client_47c5d785_1059483@c9s.3d3.myftpupload.com
-Username
- client_47c5d785_1059483
-Password
- R1hUzcchUkWOJE
