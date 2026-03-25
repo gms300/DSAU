@@ -1,2 +1,0 @@
-757769872676-d9gkdi6qhmms39mqnbnrj1umcv6p57t6.apps.googleusercontent.com
-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
