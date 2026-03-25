@@ -1,2 +1,26 @@
-GET https://dsaupstate.org/index.php?rest_route=/wp/v2
-Authorization: Basic wpusername0260:4pu3 GlbO Tui6 mmVd 1Aro fsfv
+
+POST https://script.google.com/macros/s/AKfycbzDq-aj4jYn5WHx6ms_f3CipFZ1z9uMn3_6NwJhxSr5v6_chz4cUdtbVvoXIqpnzVmXVg/exec
+Content-Type: application/json
+
+{
+    "text_4": "John",
+    "text_5": "Doe",
+    "email_1": "john@example.com",
+    "phone_1": "555-1234",
+    "address_1_street_address": "123 Main St",
+    "address_1_address_line": "Ste 100",
+    "address_1_city": "Greenville",
+    "address_1_state": "SC",
+    "address_1_zip": "29601",
+    "select_1": "Pickens",
+    "number_1": "4",
+    "radio_1": "Yes",
+    "select_2": "Married",
+    "text_3": "Jane Doe",
+    "name_2": "Baby Doe",
+    "date_1": "2024-01-01",
+    "select_3": "Infant",
+    "select_4": "None",
+    "name_3": "Sibling Doe",
+    "date_2": "2022-01-01"
+}
